@@ -1,0 +1,21 @@
+city,avg_price,avg_num_bedrooms,number_listing
+Campbell,136.41,1.43,129
+Cupertino,122.77,1.4,335
+Gilroy,145.19,1.72,32
+Hollister,248.0,1.0,2
+Los Altos,170.9,1.6,90
+Los Altos Hills,196.62,1.26,53
+Los Gatos,157.88,1.43,134
+Menlo Park,253.5,1.5,4
+Milpitas,120.28,1.38,297
+Monte Sereno,130.56,0.81,16
+Morgan Hill,143.9,1.38,63
+Mountain View,141.09,1.33,666
+Palo Alto,176.11,1.54,792
+San Jose,121.66,1.43,3034
+San Martin,147.67,1.67,15
+Santa Clara,125.65,1.41,715
+Saratoga,167.03,1.97,70
+Stanford,228.67,1.33,3
+Sunnyvale,117.84,1.31,765
+Watsonville,76.0,0.0,1

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Milano Telecommunications Visulization</title>
+  <link rel="stylesheet" type="text/css" href="styles/fullpage.min.css"></style>
+  <link rel="stylesheet" type="text/css" href="styles/style.css"></style>
+</head>
+<body>
+
+  <div id="fullpage">
+    <div class="section">
+
+      <div class="slide" data-anchor="welcome">
+        <h1>Airbnb Market Expanding in Silicon Valley </h1>
+        <h2>Chang Guo</h2>
+        <div class="intro">
+
+          <div>CS416 Data Visualization Final Project </div>
+        </div>
+      </div>
+
+      <div class="slide" data-anchor="dataset">
+        <h2>Background</h2>
+        <div class="intro">
+          <p>
+
+          </p>
+          <p>
+            From 2009 to 2020, Airbnb market is expanding rapidly across silicon valley. The market size has increasing
+            significantly, and now it covers most of the cities in Silicon Valley. Also the composition is becoming more diverse
+            in different dimensions.
+          </p>
+        </div>
+      </div>
+
+      <div class="slide" data-anchor="about">
+        <h2>About the Visualization</h2>
+        <div class="intro">
+          <p>
+            <strong>Messaging</strong>
+            From 2009 to 2020, Airbnb market is expanding rapidly across silicon valley. The market size has increasing
+            significantly, and now it covers most of the cities in Silicon Valley. Also the composition is becoming more diverse
+            in different dimensions.
+          </p>
+          <p>
+            <strong>Narrative Structure</strong>
+            This visualization project uses the interactive slideshow hybrid structure to guide users through
+            various selected scenarios.
+            Market exploration in different dimensions are displayed in each slide.
+            Each slide can be navigated using arrows at left or right, or using the navigation dots on top, or use keyboard
+            left and right buttons.
+
+          </p>
+          <p>
+            <strong>Visual Structure</strong>
+            It starts with an overview using scatter plot followed by one histogram and area chart. Scatter plot is used
+            to illustrated the relationship between house size and price, also bubble size depends on listing numbers.
+            Histogram is used to how much are the listing charged distributed. While area plot displays the evolution of
+            number of listings for different room types on the same chart, stacked on top of each other.
+          </p>
+          <p>
+            <strong>Scenes</strong>
+            There are 3 main scenes between the opening and ending scene and they are designed in consistent template
+            and layout. The first scene is an overview of all cities' price, house size, as well as number of listing.
+            And we dive deep in price distribution in second scene. And we look at the evolution along time in chart 3,
+            which enable the users to review the past trend and look forward the future.
+
+          </p>
+          <p>
+            <strong>Annotations</strong>
+            Tooltip is displayed in chart 1 when mouse hang over the dot.
+            Trends and special attention needed are annotated using arrow and are commented in chart 3.
+          </p>
+          <p>
+            <strong>Parameters</strong>
+            Chart 2 include a box for users to choose how many bins they want to break the histogram into.
+            Chart 3 includes a legend on the right, it shows each group only when users hang mouse over the one interested.
+          </p>
+          <p>
+            <strong>Triggers</strong>
+            Mouse over different cities in chart 1 will trigger the tooltip displayed and hidden.
+            Key in number of bins in chart 2 will change chart 2 automatically.
+            Mouse over different option of room type in chart 3 will trigger the chart change.
+          </p>
+        </div>
+      </div>
+      
+      <div class="slide" data-anchor="chart1">
+        <h3>Price vs # of room of each city</h3>
+        <div class="chart chart1" >
+          <div id="svg1"></div>
+        </div>
+        <div class="intro">
+          <p>
+            The first scatter chart shows the positive relationship between average price and number of rooms of each
+            city. And it's showed that San Jose has the largest number of listings Also Luxury neighborhood tends to have larger houses with higher prices in the listings, such as Los
+            Gatos, Saratoga, Palo Alto.
+          </p>
+          <p>
+            Let's take a closer look at price of the listings. How much are the listings charged?
+          </p>
+        </div>
+      </div>
+
+      <div class="slide" data-anchor="chart2">
+        <h3>Distribution of the price</h3>
+        <div class="chart chart2">
+          <div id="svg2"></div>
+          <p>
+            <label># bins</label>
+            <input type="number" min="1" max="100" step="20" value="20" id="nBin">
+          </p>
+        </div>
+        <div class="intro">
+          <p>
+            The second histogram chart clearly shows that Price of the existing listings follows a long tail distribution.
+            It's showed that most of the listings are within lower price range which is less than 300.
+          </p>
+          <p>
+            And as you break down the buckets more granular, you can see more precise distribution since the histogram
+            approaches density distribution .
+          </p>
+        </div>
+      </div>
+
+      <div class="slide" data-anchor="chart3">
+        <h3># of Listing of different room types</h3>
+        <div class="chart chart3">
+          <svg id="svg3"></svg>
+        </div>
+        <div class="intro">
+          <p>
+            The third area chart indicates that number of listings growth trend since 2009 to 2020. And more
+            specifically, user can see the trend of each room type by hang over mouse on the room type list on the right.
+          </p>
+          <p>
+            We can see that the growth is super fast around year 2015. And it keeps growing after 2005 but at
+            a slower pace. And the acceleration is much smaller for the most recent years.
+          </p>
+          <p>
+            The market is now mostly private room and entire home, with fewer shared room and hotel room.
+          </p>
+        </div>
+      </div>
+
+
+
+      <div class="slide" data-anchor="source">
+        <h2>Appendix</h2>
+        <div class="intro">
+          <p>
+            <strong>Dataset (Data for each slide has been pre-processed
+              and aggregated separately in Python.)</strong><br/>
+            <a href="http://insideairbnb.com/get-the-data.html." target="_blank">
+              http://insideairbnb.com/get-the-data.html
+            </a>
+          </p>
+          <p>
+            <strong>Source code</strong><br/>
+            <a href="abc" target="_blank">
+              https://github.com/changchang0801/cs416-data-visualization
+            </a>
+          </p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+    
+
+  <script src="scripts/scrolloverflow.min.js"></script>
+  <script src="scripts/fullpage.min.js"></script>
+  <script src="scripts/d3.v4.min.js"></script>
+  <script>
+    var charts = {};
+  </script>
+  <script src="scripts/chart1.js"></script>
+  <script src="scripts/chart2.js"></script>
+  <script src="scripts/chart3.js"></script>
+  <script src="scripts/main.js"></script>
+  <!-- Load color scale -->
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <!-- Load d3.js -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+
+
+</body>
+</html>

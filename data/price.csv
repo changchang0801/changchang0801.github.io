@@ -1,0 +1,7217 @@
+city,price
+San Jose,1.0
+Palo Alto,1.0
+San Jose,1.0
+San Jose,1.0
+Cupertino,1.0
+San Jose,1.0
+Los Gatos,1.0
+Palo Alto,1.0
+Palo Alto,1.0
+Santa Clara,1.0
+San Martin,1.0
+Palo Alto,1.0
+Saratoga,1.0
+Los Altos,1.0
+Campbell,1.0
+Mountain View,1.0
+Cupertino,1.0
+San Jose,1.0
+Sunnyvale,1.0
+San Jose,1.0
+Santa Clara,1.0
+San Jose,1.0
+San Jose,1.0
+Morgan Hill,1.0
+Los Gatos,1.0
+Santa Clara,1.0
+Campbell,1.0
+San Jose,1.0
+San Jose,1.0
+San Jose,1.0
+San Jose,1.0
+Mountain View,1.0
+San Jose,1.0
+Palo Alto,1.0
+San Jose,1.0
+Palo Alto,1.0
+Palo Alto,1.0
+San Jose,1.0
+San Jose,1.0
+Los Altos,1.0
+Los Altos,1.0
+San Jose,1.0
+San Jose,1.0
+Palo Alto,1.0
+Los Gatos,1.0
+Los Gatos,1.0
+Mountain View,1.0
+San Jose,1.0
+Mountain View,1.0
+San Jose,1.0
+Palo Alto,1.0
+Mountain View,1.0
+Sunnyvale,1.0
+San Jose,1.0
+Saratoga,1.0
+Palo Alto,1.0
+Saratoga,1.0
+Los Altos,1.0
+Palo Alto,1.0
+Palo Alto,1.0
+Palo Alto,2.0
+Santa Clara,2.0
+Santa Clara,2.0
+Santa Clara,2.0
+San Jose,2.0
+Santa Clara,2.0
+San Jose,2.0
+Palo Alto,2.0
+Palo Alto,2.0
+Los Altos Hills,2.0
+Palo Alto,2.0
+Palo Alto,2.0
+Palo Alto,2.0
+San Jose,2.0
+Saratoga,2.0
+San Jose,2.0
+Palo Alto,3.0
+San Jose,3.0
+Saratoga,3.0
+Sunnyvale,3.0
+Santa Clara,3.0
+San Jose,3.0
+Palo Alto,3.0
+Los Gatos,4.0
+Los Gatos,4.0
+Santa Clara,5.0
+San Jose,5.0
+San Jose,10.0
+San Jose,10.0
+San Jose,10.0
+San Jose,10.0
+San Jose,10.0
+Mountain View,10.0
+Mountain View,10.0
+Mountain View,10.0
+Mountain View,10.0
+Mountain View,10.0
+San Jose,10.0
+San Jose,10.0
+Palo Alto,10.0
+Palo Alto,10.0
+Palo Alto,10.0
+Santa Clara,11.0
+San Jose,12.0
+Mountain View,15.0
+Sunnyvale,15.0
+Santa Clara,15.0
+San Jose,18.0
+San Jose,18.0
+Milpitas,18.0
+Santa Clara,19.0
+Santa Clara,19.0
+Palo Alto,20.0
+San Jose,20.0
+San Jose,20.0
+Santa Clara,20.0
+Santa Clara,20.0
+Santa Clara,20.0
+Santa Clara,20.0
+San Jose,20.0
+Sunnyvale,20.0
+San Jose,20.0
+Palo Alto,20.0
+San Jose,20.0
+San Jose,21.0
+Santa Clara,21.0
+San Jose,22.0
+San Jose,22.0
+San Jose,22.0
+San Jose,22.0
+San Jose,22.0
+Sunnyvale,22.0
+Sunnyvale,22.0
+Sunnyvale,22.0
+Sunnyvale,22.0
+San Jose,22.0
+San Jose,23.0
+San Jose,23.0
+San Jose,23.0
+Sunnyvale,23.0
+Sunnyvale,23.0
+Sunnyvale,23.0
+Santa Clara,23.0
+Santa Clara,23.0
+Santa Clara,23.0
+San Jose,23.0
+San Jose,24.0
+Sunnyvale,24.0
+Cupertino,24.0
+Mountain View,24.0
+San Jose,24.0
+San Jose,24.0
+San Jose,24.0
+San Jose,24.0
+San Jose,24.0
+San Jose,24.0
+San Jose,24.0
+San Jose,24.0
+San Jose,25.0
+Palo Alto,25.0
+San Jose,25.0
+Sunnyvale,25.0
+San Jose,25.0
+Campbell,25.0
+San Jose,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+San Jose,25.0
+San Jose,25.0
+San Jose,25.0
+San Jose,25.0
+Milpitas,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+San Jose,25.0
+Milpitas,25.0
+Santa Clara,25.0
+Sunnyvale,25.0
+Sunnyvale,25.0
+Sunnyvale,25.0
+Sunnyvale,25.0
+Sunnyvale,25.0
+Sunnyvale,25.0
+Sunnyvale,25.0
+Cupertino,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Santa Clara,25.0
+Cupertino,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+Milpitas,25.0
+San Jose,25.0
+San Jose,26.0
+San Jose,26.0
+San Jose,26.0
+San Jose,26.0
+Santa Clara,26.0
+Santa Clara,26.0
+San Jose,27.0
+Santa Clara,27.0
+Sunnyvale,27.0
+Sunnyvale,27.0
+Sunnyvale,27.0
+Sunnyvale,28.0
+San Jose,28.0
+Palo Alto,28.0
+San Jose,28.0
+San Jose,28.0
+San Jose,28.0
+San Jose,28.0
+San Jose,28.0
+Cupertino,28.0
+San Jose,28.0
+Santa Clara,28.0
+Cupertino,28.0
+Cupertino,28.0
+San Jose,28.0
+San Jose,28.0
+San Jose,28.0
+San Jose,28.0
+Sunnyvale,29.0
+Sunnyvale,29.0
+Mountain View,29.0
+Cupertino,29.0
+Milpitas,29.0
+San Jose,29.0
+Sunnyvale,29.0
+San Jose,29.0
+San Jose,29.0
+Palo Alto,29.0
+San Jose,29.0
+San Jose,29.0
+San Jose,29.0
+San Jose,29.0
+Cupertino,29.0
+Sunnyvale,29.0
+San Jose,29.0
+San Jose,29.0
+Santa Clara,29.0
+San Jose,29.0
+Mountain View,29.0
+Mountain View,29.0
+Mountain View,29.0
+Mountain View,29.0
+Mountain View,29.0
+Mountain View,29.0
+Sunnyvale,29.0
+Mountain View,29.0
+Mountain View,29.0
+Santa Clara,29.0
+San Jose,29.0
+Mountain View,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+Cupertino,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+Cupertino,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+Mountain View,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+Palo Alto,30.0
+San Jose,30.0
+Mountain View,30.0
+San Jose,30.0
+Mountain View,30.0
+Cupertino,30.0
+San Jose,30.0
+Sunnyvale,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+San Jose,30.0
+Los Altos,30.0
+San Jose,31.0
+San Jose,31.0
+San Jose,32.0
+Palo Alto,32.0
+San Jose,32.0
+San Jose,32.0
+Sunnyvale,32.0
+Palo Alto,32.0
+San Jose,32.0
+San Jose,32.0
+San Jose,32.0
+San Jose,32.0
+San Jose,32.0
+San Jose,32.0
+San Jose,33.0
+Sunnyvale,33.0
+Mountain View,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+Santa Clara,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+San Jose,33.0
+Santa Clara,33.0
+Mountain View,34.0
+San Jose,34.0
+Palo Alto,34.0
+San Jose,34.0
+San Jose,34.0
+San Jose,34.0
+San Jose,34.0
+San Jose,34.0
+San Jose,34.0
+San Jose,34.0
+San Jose,34.0
+San Jose,34.0
+Mountain View,35.0
+Sunnyvale,35.0
+Sunnyvale,35.0
+Sunnyvale,35.0
+Cupertino,35.0
+Mountain View,35.0
+Mountain View,35.0
+Sunnyvale,35.0
+Mountain View,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+Mountain View,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+Santa Clara,35.0
+San Jose,35.0
+Sunnyvale,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+Santa Clara,35.0
+Mountain View,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+Sunnyvale,35.0
+San Jose,35.0
+Palo Alto,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+Santa Clara,35.0
+Milpitas,35.0
+Milpitas,35.0
+San Jose,35.0
+Milpitas,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+Milpitas,35.0
+Milpitas,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+Los Altos Hills,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+San Jose,35.0
+Los Gatos,36.0
+San Jose,36.0
+San Jose,36.0
+San Jose,36.0
+San Jose,36.0
+Milpitas,36.0
+San Jose,36.0
+San Jose,36.0
+Milpitas,36.0
+Milpitas,36.0
+Milpitas,36.0
+Mountain View,37.0
+Cupertino,37.0
+San Jose,37.0
+San Jose,37.0
+San Jose,37.0
+San Jose,37.0
+San Jose,37.0
+San Jose,37.0
+San Jose,37.0
+San Jose,37.0
+Mountain View,37.0
+Mountain View,37.0
+Mountain View,37.0
+Mountain View,37.0
+Mountain View,37.0
+Mountain View,37.0
+Mountain View,37.0
+Mountain View,37.0
+San Jose,37.0
+San Jose,37.0
+Sunnyvale,38.0
+Sunnyvale,38.0
+Sunnyvale,38.0
+San Jose,38.0
+San Jose,38.0
+San Jose,38.0
+Palo Alto,38.0
+Los Gatos,38.0
+San Jose,38.0
+San Jose,38.0
+San Jose,38.0
+Milpitas,38.0
+Milpitas,38.0
+San Jose,38.0
+San Jose,38.0
+Milpitas,38.0
+San Jose,38.0
+San Jose,38.0
+San Jose,38.0
+San Jose,38.0
+San Jose,38.0
+San Jose,38.0
+Sunnyvale,38.0
+San Jose,38.0
+San Jose,38.0
+Santa Clara,38.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+Sunnyvale,39.0
+San Jose,39.0
+Sunnyvale,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+Saratoga,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+Sunnyvale,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+Milpitas,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+Santa Clara,39.0
+Sunnyvale,39.0
+Milpitas,39.0
+San Jose,39.0
+San Jose,39.0
+Sunnyvale,39.0
+Milpitas,39.0
+Milpitas,39.0
+Milpitas,39.0
+San Jose,39.0
+San Jose,39.0
+Sunnyvale,39.0
+Palo Alto,39.0
+Santa Clara,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+San Jose,39.0
+Milpitas,40.0
+Sunnyvale,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+Mountain View,40.0
+San Jose,40.0
+Los Altos Hills,40.0
+Los Altos Hills,40.0
+Los Altos Hills,40.0
+Los Altos Hills,40.0
+Los Altos Hills,40.0
+Los Altos Hills,40.0
+San Jose,40.0
+San Jose,40.0
+Cupertino,40.0
+Cupertino,40.0
+San Jose,40.0
+Mountain View,40.0
+Santa Clara,40.0
+Santa Clara,40.0
+Santa Clara,40.0
+Santa Clara,40.0
+Santa Clara,40.0
+Santa Clara,40.0
+Santa Clara,40.0
+Santa Clara,40.0
+Santa Clara,40.0
+Santa Clara,40.0
+Santa Clara,40.0
+San Jose,40.0
+Cupertino,40.0
+Milpitas,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+Santa Clara,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+Santa Clara,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+Milpitas,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+Sunnyvale,40.0
+Milpitas,40.0
+Milpitas,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+Sunnyvale,40.0
+San Jose,40.0
+Milpitas,40.0
+Milpitas,40.0
+Milpitas,40.0
+Milpitas,40.0
+Milpitas,40.0
+San Jose,40.0
+San Jose,40.0
+Santa Clara,40.0
+Milpitas,40.0
+Santa Clara,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+Campbell,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+Milpitas,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+Palo Alto,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+San Jose,40.0
+Santa Clara,40.0
+San Jose,40.0
+San Jose,40.0
+Santa Clara,40.0
+San Jose,40.0
+San Jose,40.0
+Cupertino,40.0
+Sunnyvale,40.0
+San Jose,40.0
+Los Altos,40.0
+Los Altos,40.0
+San Jose,40.0
+Sunnyvale,40.0
+San Jose,40.0
+San Jose,40.0
+Cupertino,40.0
+Los Altos Hills,40.0
+San Jose,40.0
+Cupertino,41.0
+Cupertino,41.0
+San Jose,41.0
+Milpitas,41.0
+San Jose,41.0
+Santa Clara,41.0
+San Jose,41.0
+San Jose,41.0
+San Jose,41.0
+Sunnyvale,41.0
+San Jose,41.0
+Sunnyvale,41.0
+San Jose,41.0
+Sunnyvale,41.0
+Sunnyvale,41.0
+Sunnyvale,42.0
+San Jose,42.0
+San Jose,42.0
+San Jose,42.0
+San Jose,42.0
+San Jose,42.0
+San Jose,42.0
+San Jose,42.0
+San Jose,42.0
+San Jose,42.0
+Sunnyvale,42.0
+Mountain View,42.0
+San Jose,42.0
+Sunnyvale,42.0
+Cupertino,42.0
+San Jose,42.0
+San Jose,42.0
+San Jose,42.0
+San Jose,42.0
+San Jose,42.0
+Milpitas,42.0
+Milpitas,42.0
+Milpitas,42.0
+Milpitas,42.0
+Milpitas,42.0
+San Jose,42.0
+San Jose,42.0
+Los Altos,42.0
+Cupertino,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+San Jose,43.0
+Santa Clara,43.0
+Santa Clara,43.0
+San Jose,44.0
+Cupertino,44.0
+San Jose,44.0
+Mountain View,44.0
+Santa Clara,44.0
+San Jose,44.0
+Santa Clara,44.0
+San Jose,44.0
+San Jose,44.0
+San Jose,44.0
+Palo Alto,44.0
+Sunnyvale,44.0
+San Jose,44.0
+San Jose,44.0
+San Jose,44.0
+Mountain View,45.0
+Mountain View,45.0
+Mountain View,45.0
+Sunnyvale,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Sunnyvale,45.0
+Cupertino,45.0
+Los Altos Hills,45.0
+Los Altos Hills,45.0
+Los Altos Hills,45.0
+Los Altos Hills,45.0
+Sunnyvale,45.0
+Palo Alto,45.0
+San Jose,45.0
+Santa Clara,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Cupertino,45.0
+Sunnyvale,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Mountain View,45.0
+Milpitas,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Sunnyvale,45.0
+San Jose,45.0
+Sunnyvale,45.0
+San Jose,45.0
+Mountain View,45.0
+San Jose,45.0
+San Jose,45.0
+Palo Alto,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Mountain View,45.0
+San Jose,45.0
+San Jose,45.0
+Los Altos,45.0
+San Jose,45.0
+San Jose,45.0
+Milpitas,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Santa Clara,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Sunnyvale,45.0
+San Jose,45.0
+Sunnyvale,45.0
+Mountain View,45.0
+San Jose,45.0
+Cupertino,45.0
+San Jose,45.0
+San Jose,45.0
+Campbell,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Palo Alto,45.0
+San Jose,45.0
+San Jose,45.0
+Palo Alto,45.0
+Sunnyvale,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Palo Alto,45.0
+Sunnyvale,45.0
+San Jose,45.0
+Milpitas,45.0
+Milpitas,45.0
+San Jose,45.0
+Santa Clara,45.0
+San Jose,45.0
+San Jose,45.0
+Sunnyvale,45.0
+Milpitas,45.0
+Sunnyvale,45.0
+San Jose,45.0
+Sunnyvale,45.0
+Milpitas,45.0
+San Jose,45.0
+Campbell,45.0
+San Jose,45.0
+Cupertino,45.0
+Campbell,45.0
+Sunnyvale,45.0
+Palo Alto,45.0
+San Jose,45.0
+Mountain View,45.0
+Palo Alto,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Palo Alto,45.0
+Sunnyvale,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Milpitas,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Milpitas,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Santa Clara,45.0
+San Jose,45.0
+Cupertino,45.0
+San Jose,45.0
+Sunnyvale,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Los Altos,45.0
+San Jose,45.0
+San Jose,45.0
+San Jose,45.0
+Cupertino,45.0
+San Jose,45.0
+San Jose,46.0
+San Jose,46.0
+San Jose,46.0
+San Jose,46.0
+San Jose,46.0
+Cupertino,46.0
+Sunnyvale,46.0
+Sunnyvale,46.0
+San Jose,46.0
+Sunnyvale,46.0
+San Jose,46.0
+Santa Clara,46.0
+Santa Clara,46.0
+San Jose,46.0
+San Jose,46.0
+Mountain View,46.0
+San Jose,46.0
+San Jose,47.0
+San Jose,47.0
+Palo Alto,47.0
+San Jose,47.0
+Santa Clara,47.0
+San Jose,47.0
+San Jose,47.0
+San Jose,47.0
+San Jose,47.0
+San Jose,47.0
+Sunnyvale,47.0
+San Jose,47.0
+San Jose,47.0
+San Jose,47.0
+Sunnyvale,47.0
+San Jose,47.0
+Saratoga,47.0
+San Jose,47.0
+San Jose,47.0
+Sunnyvale,47.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+Cupertino,48.0
+Sunnyvale,48.0
+San Jose,48.0
+San Jose,48.0
+Cupertino,48.0
+San Jose,48.0
+Santa Clara,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+Santa Clara,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+Santa Clara,48.0
+San Jose,48.0
+Sunnyvale,48.0
+Gilroy,48.0
+Campbell,48.0
+Sunnyvale,48.0
+Cupertino,48.0
+San Jose,48.0
+Milpitas,48.0
+San Jose,48.0
+Mountain View,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+Milpitas,48.0
+Santa Clara,48.0
+Santa Clara,48.0
+Santa Clara,48.0
+Santa Clara,48.0
+San Jose,48.0
+San Jose,48.0
+San Jose,48.0
+Santa Clara,49.0
+San Jose,49.0
+Milpitas,49.0
+San Jose,49.0
+Campbell,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+Milpitas,49.0
+Los Gatos,49.0
+San Jose,49.0
+Los Gatos,49.0
+Morgan Hill,49.0
+San Jose,49.0
+Morgan Hill,49.0
+Cupertino,49.0
+San Jose,49.0
+Morgan Hill,49.0
+Palo Alto,49.0
+Cupertino,49.0
+San Jose,49.0
+Milpitas,49.0
+San Jose,49.0
+Campbell,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+Cupertino,49.0
+San Jose,49.0
+San Jose,49.0
+Cupertino,49.0
+Mountain View,49.0
+Mountain View,49.0
+Cupertino,49.0
+San Jose,49.0
+San Jose,49.0
+Milpitas,49.0
+Sunnyvale,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+Santa Clara,49.0
+Gilroy,49.0
+Santa Clara,49.0
+San Jose,49.0
+Santa Clara,49.0
+San Jose,49.0
+San Jose,49.0
+Mountain View,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+Santa Clara,49.0
+Santa Clara,49.0
+Santa Clara,49.0
+Santa Clara,49.0
+San Jose,49.0
+San Jose,49.0
+Santa Clara,49.0
+Santa Clara,49.0
+Santa Clara,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+Campbell,49.0
+Sunnyvale,49.0
+San Jose,49.0
+Milpitas,49.0
+San Jose,49.0
+Mountain View,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+San Jose,49.0
+Santa Clara,50.0
+Santa Clara,50.0
+Santa Clara,50.0
+San Jose,50.0
+Mountain View,50.0
+Sunnyvale,50.0
+Milpitas,50.0
+Santa Clara,50.0
+Sunnyvale,50.0
+Saratoga,50.0
+Los Gatos,50.0
+San Jose,50.0
+Campbell,50.0
+San Jose,50.0
+San Jose,50.0
+Sunnyvale,50.0
+Campbell,50.0
+Santa Clara,50.0
+Milpitas,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Sunnyvale,50.0
+Palo Alto,50.0
+San Jose,50.0
+Santa Clara,50.0
+San Jose,50.0
+Palo Alto,50.0
+Santa Clara,50.0
+Mountain View,50.0
+Mountain View,50.0
+San Jose,50.0
+Saratoga,50.0
+Cupertino,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Morgan Hill,50.0
+Milpitas,50.0
+San Jose,50.0
+San Jose,50.0
+Campbell,50.0
+San Jose,50.0
+Sunnyvale,50.0
+San Jose,50.0
+Campbell,50.0
+Morgan Hill,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Palo Alto,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Mountain View,50.0
+San Jose,50.0
+San Jose,50.0
+Santa Clara,50.0
+San Jose,50.0
+Palo Alto,50.0
+Sunnyvale,50.0
+Sunnyvale,50.0
+Cupertino,50.0
+Cupertino,50.0
+Cupertino,50.0
+Campbell,50.0
+San Jose,50.0
+Sunnyvale,50.0
+Mountain View,50.0
+Santa Clara,50.0
+San Jose,50.0
+Santa Clara,50.0
+Santa Clara,50.0
+Santa Clara,50.0
+Santa Clara,50.0
+San Jose,50.0
+Sunnyvale,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Sunnyvale,50.0
+San Jose,50.0
+San Jose,50.0
+Cupertino,50.0
+San Jose,50.0
+Sunnyvale,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Santa Clara,50.0
+San Jose,50.0
+Sunnyvale,50.0
+Mountain View,50.0
+Sunnyvale,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Mountain View,50.0
+San Jose,50.0
+Milpitas,50.0
+San Jose,50.0
+Milpitas,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Sunnyvale,50.0
+Santa Clara,50.0
+San Jose,50.0
+San Jose,50.0
+Sunnyvale,50.0
+Cupertino,50.0
+Palo Alto,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Milpitas,50.0
+Mountain View,50.0
+San Jose,50.0
+San Jose,50.0
+Palo Alto,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Santa Clara,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Sunnyvale,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Martin,50.0
+Santa Clara,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Palo Alto,50.0
+San Jose,50.0
+San Jose,50.0
+Milpitas,50.0
+Santa Clara,50.0
+Sunnyvale,50.0
+San Jose,50.0
+San Jose,50.0
+San Jose,50.0
+Sunnyvale,50.0
+Milpitas,50.0
+Milpitas,50.0
+San Jose,50.0
+Milpitas,50.0
+San Jose,50.0
+San Jose,50.0
+Milpitas,50.0
+Milpitas,50.0
+San Jose,50.0
+San Jose,50.0
+Gilroy,50.0
+San Jose,50.0
+San Jose,50.0
+Mountain View,50.0
+San Jose,50.0
+San Jose,50.0
+Cupertino,50.0
+San Jose,50.0
+San Jose,50.0
+Sunnyvale,50.0
+San Jose,50.0
+Sunnyvale,50.0
+Sunnyvale,50.0
+Sunnyvale,50.0
+Santa Clara,50.0
+Santa Clara,50.0
+Santa Clara,50.0
+Santa Clara,50.0
+San Jose,50.0
+Morgan Hill,50.0
+San Jose,50.0
+Sunnyvale,51.0
+San Jose,51.0
+Mountain View,51.0
+San Jose,51.0
+Los Altos,51.0
+San Jose,51.0
+Cupertino,51.0
+Mountain View,51.0
+Campbell,51.0
+San Jose,51.0
+San Jose,51.0
+Mountain View,51.0
+San Jose,51.0
+Mountain View,51.0
+San Jose,51.0
+San Jose,52.0
+San Jose,52.0
+San Jose,52.0
+San Jose,52.0
+San Jose,52.0
+Santa Clara,52.0
+Cupertino,52.0
+Sunnyvale,52.0
+San Jose,52.0
+San Jose,52.0
+San Jose,52.0
+Sunnyvale,52.0
+Sunnyvale,52.0
+Mountain View,52.0
+San Jose,52.0
+Mountain View,52.0
+Palo Alto,52.0
+Milpitas,52.0
+Sunnyvale,52.0
+San Jose,52.0
+Los Altos Hills,52.0
+Sunnyvale,52.0
+Gilroy,52.0
+San Jose,52.0
+Sunnyvale,52.0
+Milpitas,52.0
+San Jose,52.0
+San Jose,52.0
+San Jose,52.0
+San Jose,52.0
+San Jose,52.0
+San Jose,52.0
+Sunnyvale,52.0
+Los Altos,53.0
+San Jose,53.0
+Cupertino,53.0
+Santa Clara,53.0
+San Jose,53.0
+Sunnyvale,53.0
+Gilroy,53.0
+San Jose,53.0
+San Jose,53.0
+Palo Alto,53.0
+San Jose,53.0
+Mountain View,53.0
+San Jose,53.0
+Milpitas,53.0
+San Jose,53.0
+San Jose,53.0
+Sunnyvale,53.0
+Mountain View,53.0
+San Jose,53.0
+San Jose,53.0
+San Jose,53.0
+San Jose,53.0
+Mountain View,53.0
+San Jose,53.0
+San Jose,53.0
+San Jose,54.0
+San Jose,54.0
+San Jose,54.0
+Los Altos,54.0
+San Jose,54.0
+Sunnyvale,54.0
+Sunnyvale,54.0
+Santa Clara,54.0
+Sunnyvale,54.0
+San Jose,54.0
+Sunnyvale,54.0
+Santa Clara,54.0
+San Jose,54.0
+San Jose,54.0
+San Jose,54.0
+Cupertino,54.0
+Palo Alto,54.0
+Sunnyvale,54.0
+Palo Alto,54.0
+San Jose,54.0
+Mountain View,54.0
+Mountain View,54.0
+Cupertino,54.0
+San Jose,54.0
+San Jose,54.0
+Santa Clara,55.0
+San Jose,55.0
+Morgan Hill,55.0
+Santa Clara,55.0
+Los Altos,55.0
+Palo Alto,55.0
+Los Altos,55.0
+Sunnyvale,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+Santa Clara,55.0
+Saratoga,55.0
+Sunnyvale,55.0
+Sunnyvale,55.0
+Sunnyvale,55.0
+San Jose,55.0
+Sunnyvale,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+Sunnyvale,55.0
+Sunnyvale,55.0
+San Jose,55.0
+Santa Clara,55.0
+San Jose,55.0
+Santa Clara,55.0
+San Jose,55.0
+Sunnyvale,55.0
+San Jose,55.0
+San Jose,55.0
+Santa Clara,55.0
+Sunnyvale,55.0
+Mountain View,55.0
+Palo Alto,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+Los Gatos,55.0
+Morgan Hill,55.0
+San Jose,55.0
+San Jose,55.0
+Los Gatos,55.0
+Santa Clara,55.0
+San Jose,55.0
+San Jose,55.0
+Santa Clara,55.0
+San Jose,55.0
+Cupertino,55.0
+San Jose,55.0
+San Jose,55.0
+Santa Clara,55.0
+San Jose,55.0
+San Jose,55.0
+Mountain View,55.0
+Milpitas,55.0
+San Jose,55.0
+Sunnyvale,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+Sunnyvale,55.0
+Palo Alto,55.0
+Santa Clara,55.0
+San Jose,55.0
+Santa Clara,55.0
+San Jose,55.0
+Santa Clara,55.0
+Milpitas,55.0
+Campbell,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+Cupertino,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+Cupertino,55.0
+San Jose,55.0
+Sunnyvale,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+Cupertino,55.0
+Milpitas,55.0
+Milpitas,55.0
+Milpitas,55.0
+Sunnyvale,55.0
+San Jose,55.0
+Sunnyvale,55.0
+Sunnyvale,55.0
+Milpitas,55.0
+Cupertino,55.0
+San Jose,55.0
+San Jose,55.0
+Milpitas,55.0
+San Jose,55.0
+San Jose,55.0
+Sunnyvale,55.0
+Milpitas,55.0
+San Jose,55.0
+Campbell,55.0
+San Jose,55.0
+Santa Clara,55.0
+Palo Alto,55.0
+Milpitas,55.0
+San Jose,55.0
+San Jose,55.0
+Milpitas,55.0
+San Jose,55.0
+San Jose,55.0
+Morgan Hill,55.0
+Sunnyvale,55.0
+San Jose,55.0
+Milpitas,55.0
+Milpitas,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+Mountain View,55.0
+Los Gatos,55.0
+Santa Clara,55.0
+Santa Clara,55.0
+Santa Clara,55.0
+Santa Clara,55.0
+San Jose,55.0
+Santa Clara,55.0
+Sunnyvale,55.0
+Milpitas,55.0
+San Jose,55.0
+Sunnyvale,55.0
+Sunnyvale,55.0
+San Jose,55.0
+San Jose,55.0
+Sunnyvale,55.0
+Mountain View,55.0
+Sunnyvale,55.0
+San Jose,55.0
+Santa Clara,55.0
+San Jose,55.0
+Milpitas,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+Sunnyvale,55.0
+Santa Clara,55.0
+Sunnyvale,55.0
+San Jose,55.0
+Sunnyvale,55.0
+Sunnyvale,55.0
+San Jose,55.0
+San Jose,55.0
+Sunnyvale,55.0
+San Jose,55.0
+San Jose,55.0
+Sunnyvale,55.0
+San Jose,55.0
+San Jose,55.0
+Sunnyvale,55.0
+San Jose,55.0
+San Jose,55.0
+Cupertino,55.0
+Cupertino,55.0
+Cupertino,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+San Jose,55.0
+Sunnyvale,56.0
+Santa Clara,56.0
+San Jose,56.0
+San Jose,56.0
+Mountain View,56.0
+Sunnyvale,56.0
+San Jose,56.0
+Santa Clara,56.0
+San Jose,56.0
+San Jose,56.0
+Palo Alto,56.0
+San Jose,56.0
+Santa Clara,56.0
+Cupertino,56.0
+Sunnyvale,56.0
+San Jose,56.0
+San Jose,56.0
+Santa Clara,56.0
+San Jose,56.0
+San Jose,56.0
+San Jose,56.0
+San Jose,56.0
+Cupertino,56.0
+Santa Clara,57.0
+San Jose,57.0
+San Jose,57.0
+San Jose,57.0
+Santa Clara,57.0
+San Jose,57.0
+Mountain View,57.0
+Palo Alto,57.0
+Sunnyvale,57.0
+San Jose,57.0
+Cupertino,57.0
+Santa Clara,57.0
+Palo Alto,57.0
+Santa Clara,57.0
+San Jose,57.0
+San Jose,57.0
+San Jose,57.0
+San Jose,57.0
+Santa Clara,57.0
+Cupertino,57.0
+San Jose,58.0
+San Jose,58.0
+Sunnyvale,58.0
+Palo Alto,58.0
+Sunnyvale,58.0
+Sunnyvale,58.0
+Milpitas,58.0
+San Jose,58.0
+San Jose,58.0
+Los Altos Hills,58.0
+San Jose,58.0
+San Jose,58.0
+Mountain View,58.0
+San Jose,58.0
+Cupertino,58.0
+San Jose,58.0
+San Jose,58.0
+Cupertino,58.0
+Cupertino,58.0
+Milpitas,58.0
+Santa Clara,58.0
+Santa Clara,58.0
+Sunnyvale,58.0
+San Jose,58.0
+San Jose,58.0
+Palo Alto,58.0
+San Jose,58.0
+Cupertino,58.0
+San Jose,58.0
+San Jose,58.0
+Sunnyvale,58.0
+Santa Clara,58.0
+Santa Clara,58.0
+San Jose,58.0
+Palo Alto,58.0
+Santa Clara,58.0
+Sunnyvale,58.0
+Cupertino,58.0
+San Jose,58.0
+San Jose,58.0
+Mountain View,58.0
+Santa Clara,58.0
+San Jose,58.0
+Mountain View,58.0
+Cupertino,59.0
+Santa Clara,59.0
+Campbell,59.0
+Cupertino,59.0
+Sunnyvale,59.0
+Palo Alto,59.0
+Milpitas,59.0
+Sunnyvale,59.0
+San Jose,59.0
+San Jose,59.0
+Sunnyvale,59.0
+Sunnyvale,59.0
+San Jose,59.0
+Sunnyvale,59.0
+Sunnyvale,59.0
+Sunnyvale,59.0
+Sunnyvale,59.0
+Sunnyvale,59.0
+Sunnyvale,59.0
+San Jose,59.0
+Mountain View,59.0
+San Jose,59.0
+San Jose,59.0
+Sunnyvale,59.0
+Mountain View,59.0
+San Jose,59.0
+Mountain View,59.0
+Palo Alto,59.0
+Milpitas,59.0
+San Jose,59.0
+Cupertino,59.0
+Cupertino,59.0
+Cupertino,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+Sunnyvale,59.0
+Sunnyvale,59.0
+Saratoga,59.0
+Milpitas,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+Milpitas,59.0
+Sunnyvale,59.0
+San Jose,59.0
+Palo Alto,59.0
+San Jose,59.0
+San Jose,59.0
+Campbell,59.0
+Sunnyvale,59.0
+Cupertino,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+Gilroy,59.0
+Palo Alto,59.0
+Palo Alto,59.0
+San Jose,59.0
+San Jose,59.0
+Cupertino,59.0
+Cupertino,59.0
+San Jose,59.0
+Sunnyvale,59.0
+Sunnyvale,59.0
+Sunnyvale,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+Los Altos,59.0
+San Jose,59.0
+San Jose,59.0
+Mountain View,59.0
+Campbell,59.0
+Sunnyvale,59.0
+Santa Clara,59.0
+Santa Clara,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+Milpitas,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+Cupertino,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,59.0
+San Jose,60.0
+Milpitas,60.0
+San Jose,60.0
+Los Gatos,60.0
+Sunnyvale,60.0
+Campbell,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+Sunnyvale,60.0
+Palo Alto,60.0
+San Jose,60.0
+Santa Clara,60.0
+Sunnyvale,60.0
+Santa Clara,60.0
+Palo Alto,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+Sunnyvale,60.0
+Santa Clara,60.0
+San Jose,60.0
+Santa Clara,60.0
+Sunnyvale,60.0
+San Jose,60.0
+San Jose,60.0
+Santa Clara,60.0
+Santa Clara,60.0
+San Jose,60.0
+Sunnyvale,60.0
+Los Gatos,60.0
+Mountain View,60.0
+Los Altos,60.0
+Mountain View,60.0
+San Jose,60.0
+Milpitas,60.0
+Los Altos,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+Milpitas,60.0
+San Jose,60.0
+Mountain View,60.0
+Campbell,60.0
+San Jose,60.0
+Sunnyvale,60.0
+Milpitas,60.0
+Sunnyvale,60.0
+Sunnyvale,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+Milpitas,60.0
+San Jose,60.0
+Sunnyvale,60.0
+San Jose,60.0
+San Jose,60.0
+Campbell,60.0
+Mountain View,60.0
+Santa Clara,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+Cupertino,60.0
+Santa Clara,60.0
+Cupertino,60.0
+Gilroy,60.0
+San Jose,60.0
+San Jose,60.0
+Palo Alto,60.0
+Santa Clara,60.0
+Mountain View,60.0
+San Jose,60.0
+Santa Clara,60.0
+San Jose,60.0
+Santa Clara,60.0
+San Jose,60.0
+Santa Clara,60.0
+Sunnyvale,60.0
+Sunnyvale,60.0
+San Jose,60.0
+Milpitas,60.0
+Santa Clara,60.0
+San Jose,60.0
+Santa Clara,60.0
+Cupertino,60.0
+Sunnyvale,60.0
+Sunnyvale,60.0
+Sunnyvale,60.0
+Los Altos,60.0
+San Jose,60.0
+San Jose,60.0
+Santa Clara,60.0
+Milpitas,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+Palo Alto,60.0
+San Jose,60.0
+Santa Clara,60.0
+San Jose,60.0
+San Jose,60.0
+Sunnyvale,60.0
+Santa Clara,60.0
+San Jose,60.0
+Santa Clara,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+Sunnyvale,60.0
+San Jose,60.0
+Sunnyvale,60.0
+Mountain View,60.0
+San Jose,60.0
+Cupertino,60.0
+Mountain View,60.0
+San Jose,60.0
+San Jose,60.0
+Santa Clara,60.0
+San Jose,60.0
+Santa Clara,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+Santa Clara,60.0
+Santa Clara,60.0
+San Jose,60.0
+San Jose,60.0
+Cupertino,60.0
+Cupertino,60.0
+Cupertino,60.0
+San Jose,60.0
+San Jose,60.0
+Mountain View,60.0
+San Jose,60.0
+San Jose,60.0
+Sunnyvale,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+Santa Clara,60.0
+Cupertino,60.0
+Sunnyvale,60.0
+Mountain View,60.0
+San Jose,60.0
+San Jose,60.0
+Sunnyvale,60.0
+San Jose,60.0
+San Jose,60.0
+Palo Alto,60.0
+Palo Alto,60.0
+San Jose,60.0
+San Jose,60.0
+Santa Clara,60.0
+San Jose,60.0
+Milpitas,60.0
+San Jose,60.0
+San Jose,60.0
+Milpitas,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+San Jose,60.0
+Santa Clara,60.0
+Palo Alto,60.0
+Sunnyvale,60.0
+San Jose,60.0
+San Jose,60.0
+Sunnyvale,60.0
+Sunnyvale,60.0
+San Jose,60.0
+San Jose,60.0
+Santa Clara,60.0
+Mountain View,60.0
+Sunnyvale,60.0
+San Jose,60.0
+Mountain View,61.0
+Sunnyvale,61.0
+Sunnyvale,61.0
+San Jose,61.0
+San Jose,61.0
+San Jose,61.0
+Campbell,62.0
+San Jose,62.0
+Cupertino,62.0
+Sunnyvale,62.0
+San Jose,62.0
+Sunnyvale,62.0
+Palo Alto,62.0
+Santa Clara,62.0
+San Jose,62.0
+San Jose,62.0
+San Jose,62.0
+Morgan Hill,62.0
+Saratoga,62.0
+Milpitas,62.0
+Sunnyvale,62.0
+San Jose,62.0
+Saratoga,62.0
+Palo Alto,62.0
+San Jose,62.0
+San Jose,62.0
+San Jose,62.0
+Mountain View,62.0
+Mountain View,62.0
+Mountain View,62.0
+San Jose,62.0
+Mountain View,62.0
+Sunnyvale,63.0
+Sunnyvale,63.0
+Palo Alto,63.0
+Santa Clara,63.0
+San Jose,63.0
+San Jose,63.0
+Sunnyvale,63.0
+San Jose,63.0
+San Jose,63.0
+Mountain View,63.0
+San Jose,63.0
+San Jose,63.0
+Sunnyvale,63.0
+Santa Clara,63.0
+Santa Clara,63.0
+San Jose,63.0
+San Jose,63.0
+Santa Clara,63.0
+San Jose,63.0
+San Jose,64.0
+Sunnyvale,64.0
+San Jose,64.0
+San Jose,64.0
+San Jose,64.0
+Santa Clara,64.0
+San Jose,64.0
+Sunnyvale,64.0
+San Jose,64.0
+Los Altos,64.0
+Mountain View,64.0
+Morgan Hill,64.0
+Sunnyvale,64.0
+Palo Alto,64.0
+San Jose,64.0
+Mountain View,65.0
+Morgan Hill,65.0
+San Jose,65.0
+Los Gatos,65.0
+Mountain View,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+Santa Clara,65.0
+Palo Alto,65.0
+Mountain View,65.0
+Santa Clara,65.0
+San Jose,65.0
+Saratoga,65.0
+Santa Clara,65.0
+Santa Clara,65.0
+San Jose,65.0
+San Jose,65.0
+Cupertino,65.0
+Palo Alto,65.0
+Campbell,65.0
+Cupertino,65.0
+San Jose,65.0
+Santa Clara,65.0
+Milpitas,65.0
+San Martin,65.0
+San Martin,65.0
+Gilroy,65.0
+Palo Alto,65.0
+San Jose,65.0
+Sunnyvale,65.0
+San Jose,65.0
+Sunnyvale,65.0
+Santa Clara,65.0
+Santa Clara,65.0
+San Jose,65.0
+Mountain View,65.0
+Santa Clara,65.0
+San Martin,65.0
+San Jose,65.0
+Gilroy,65.0
+Santa Clara,65.0
+San Jose,65.0
+Gilroy,65.0
+Palo Alto,65.0
+Morgan Hill,65.0
+Morgan Hill,65.0
+Palo Alto,65.0
+Morgan Hill,65.0
+Cupertino,65.0
+Sunnyvale,65.0
+San Jose,65.0
+Saratoga,65.0
+San Jose,65.0
+San Jose,65.0
+Los Gatos,65.0
+Cupertino,65.0
+Santa Clara,65.0
+Santa Clara,65.0
+Sunnyvale,65.0
+San Jose,65.0
+Sunnyvale,65.0
+San Jose,65.0
+Sunnyvale,65.0
+San Jose,65.0
+Mountain View,65.0
+Milpitas,65.0
+Cupertino,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+Mountain View,65.0
+Mountain View,65.0
+Milpitas,65.0
+Mountain View,65.0
+Santa Clara,65.0
+Gilroy,65.0
+Sunnyvale,65.0
+San Jose,65.0
+Mountain View,65.0
+Mountain View,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+Sunnyvale,65.0
+Sunnyvale,65.0
+Santa Clara,65.0
+Milpitas,65.0
+Saratoga,65.0
+Los Gatos,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+Mountain View,65.0
+Mountain View,65.0
+San Jose,65.0
+Santa Clara,65.0
+San Jose,65.0
+Sunnyvale,65.0
+Cupertino,65.0
+Sunnyvale,65.0
+Sunnyvale,65.0
+San Jose,65.0
+San Jose,65.0
+Sunnyvale,65.0
+San Jose,65.0
+San Jose,65.0
+Sunnyvale,65.0
+Milpitas,65.0
+San Jose,65.0
+Milpitas,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+Sunnyvale,65.0
+Mountain View,65.0
+San Jose,65.0
+Palo Alto,65.0
+Cupertino,65.0
+Cupertino,65.0
+Mountain View,65.0
+Santa Clara,65.0
+San Jose,65.0
+Mountain View,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+Morgan Hill,65.0
+San Jose,65.0
+Santa Clara,65.0
+San Jose,65.0
+Santa Clara,65.0
+Sunnyvale,65.0
+Morgan Hill,65.0
+Cupertino,65.0
+Santa Clara,65.0
+San Jose,65.0
+Milpitas,65.0
+Sunnyvale,65.0
+San Jose,65.0
+San Jose,65.0
+Sunnyvale,65.0
+Mountain View,65.0
+San Jose,65.0
+Sunnyvale,65.0
+Santa Clara,65.0
+Sunnyvale,65.0
+Saratoga,65.0
+Santa Clara,65.0
+San Jose,65.0
+Palo Alto,65.0
+Mountain View,65.0
+San Jose,65.0
+Sunnyvale,65.0
+San Jose,65.0
+Sunnyvale,65.0
+San Jose,65.0
+Mountain View,65.0
+Santa Clara,65.0
+San Jose,65.0
+San Jose,65.0
+San Jose,65.0
+Santa Clara,65.0
+Cupertino,65.0
+Santa Clara,65.0
+Los Altos,66.0
+Palo Alto,66.0
+Sunnyvale,66.0
+Palo Alto,66.0
+San Jose,66.0
+San Jose,66.0
+San Jose,66.0
+Palo Alto,66.0
+San Jose,66.0
+San Jose,66.0
+San Jose,66.0
+Campbell,66.0
+Campbell,66.0
+San Jose,66.0
+Santa Clara,66.0
+San Jose,66.0
+Mountain View,67.0
+San Jose,67.0
+San Jose,67.0
+San Jose,67.0
+San Jose,67.0
+Mountain View,67.0
+Mountain View,67.0
+Mountain View,67.0
+San Jose,67.0
+Mountain View,67.0
+Sunnyvale,67.0
+Sunnyvale,67.0
+Campbell,67.0
+Los Altos,67.0
+Palo Alto,67.0
+Cupertino,67.0
+Cupertino,67.0
+Mountain View,67.0
+Mountain View,67.0
+Sunnyvale,67.0
+Mountain View,67.0
+San Jose,67.0
+Sunnyvale,67.0
+San Jose,67.0
+San Jose,67.0
+Saratoga,68.0
+Palo Alto,68.0
+Cupertino,68.0
+Santa Clara,68.0
+Sunnyvale,68.0
+San Jose,68.0
+San Jose,68.0
+Santa Clara,68.0
+San Jose,68.0
+Santa Clara,68.0
+San Jose,68.0
+Santa Clara,68.0
+San Jose,68.0
+Cupertino,68.0
+San Jose,68.0
+San Jose,68.0
+Mountain View,68.0
+Sunnyvale,68.0
+Sunnyvale,68.0
+Santa Clara,68.0
+Palo Alto,68.0
+San Jose,68.0
+Campbell,68.0
+San Jose,68.0
+San Jose,68.0
+San Jose,68.0
+Santa Clara,68.0
+Santa Clara,68.0
+San Jose,68.0
+Cupertino,68.0
+San Jose,68.0
+San Jose,68.0
+San Jose,68.0
+San Jose,68.0
+Gilroy,68.0
+Sunnyvale,68.0
+Santa Clara,68.0
+San Jose,68.0
+Palo Alto,68.0
+Palo Alto,68.0
+Sunnyvale,68.0
+San Jose,68.0
+San Jose,68.0
+San Jose,68.0
+San Jose,68.0
+Cupertino,69.0
+San Jose,69.0
+Sunnyvale,69.0
+Santa Clara,69.0
+San Jose,69.0
+Mountain View,69.0
+Mountain View,69.0
+San Jose,69.0
+San Jose,69.0
+Cupertino,69.0
+San Jose,69.0
+San Jose,69.0
+Saratoga,69.0
+Milpitas,69.0
+Sunnyvale,69.0
+Mountain View,69.0
+Cupertino,69.0
+San Jose,69.0
+Palo Alto,69.0
+Los Altos Hills,69.0
+San Jose,69.0
+San Jose,69.0
+San Jose,69.0
+Saratoga,69.0
+Sunnyvale,69.0
+San Jose,69.0
+Milpitas,69.0
+San Jose,69.0
+San Jose,69.0
+San Jose,69.0
+San Jose,69.0
+San Jose,69.0
+Mountain View,69.0
+Mountain View,69.0
+Cupertino,69.0
+Cupertino,69.0
+San Jose,69.0
+San Jose,69.0
+San Jose,69.0
+Mountain View,69.0
+San Jose,69.0
+Cupertino,69.0
+Mountain View,69.0
+San Jose,69.0
+San Jose,69.0
+San Jose,69.0
+Cupertino,69.0
+Cupertino,69.0
+Mountain View,69.0
+San Jose,69.0
+Palo Alto,69.0
+Santa Clara,69.0
+San Jose,69.0
+Mountain View,69.0
+Sunnyvale,69.0
+Sunnyvale,69.0
+Cupertino,69.0
+Sunnyvale,69.0
+San Jose,69.0
+Palo Alto,69.0
+San Jose,69.0
+San Jose,69.0
+Cupertino,69.0
+Santa Clara,69.0
+Gilroy,69.0
+San Jose,69.0
+Los Altos,69.0
+Santa Clara,69.0
+Cupertino,69.0
+San Jose,69.0
+San Jose,69.0
+San Jose,69.0
+Santa Clara,69.0
+San Jose,69.0
+San Jose,69.0
+San Jose,69.0
+Santa Clara,69.0
+San Jose,70.0
+Palo Alto,70.0
+Santa Clara,70.0
+Santa Clara,70.0
+Sunnyvale,70.0
+Palo Alto,70.0
+San Jose,70.0
+San Jose,70.0
+Santa Clara,70.0
+Sunnyvale,70.0
+Sunnyvale,70.0
+San Jose,70.0
+Sunnyvale,70.0
+San Jose,70.0
+Mountain View,70.0
+Sunnyvale,70.0
+Los Gatos,70.0
+Cupertino,70.0
+Campbell,70.0
+San Jose,70.0
+Palo Alto,70.0
+Mountain View,70.0
+Santa Clara,70.0
+Sunnyvale,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+Santa Clara,70.0
+Sunnyvale,70.0
+Santa Clara,70.0
+San Jose,70.0
+Santa Clara,70.0
+Palo Alto,70.0
+Sunnyvale,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+Morgan Hill,70.0
+Morgan Hill,70.0
+San Jose,70.0
+Mountain View,70.0
+San Jose,70.0
+Milpitas,70.0
+San Jose,70.0
+Morgan Hill,70.0
+Palo Alto,70.0
+San Jose,70.0
+Palo Alto,70.0
+San Jose,70.0
+San Jose,70.0
+Santa Clara,70.0
+San Jose,70.0
+Cupertino,70.0
+Sunnyvale,70.0
+Cupertino,70.0
+San Jose,70.0
+Gilroy,70.0
+San Jose,70.0
+San Jose,70.0
+Los Gatos,70.0
+San Jose,70.0
+Santa Clara,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+Sunnyvale,70.0
+Santa Clara,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+Santa Clara,70.0
+Sunnyvale,70.0
+Palo Alto,70.0
+Morgan Hill,70.0
+San Jose,70.0
+San Jose,70.0
+Milpitas,70.0
+Sunnyvale,70.0
+Campbell,70.0
+Palo Alto,70.0
+Palo Alto,70.0
+San Jose,70.0
+Sunnyvale,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+Sunnyvale,70.0
+Sunnyvale,70.0
+Palo Alto,70.0
+San Jose,70.0
+Palo Alto,70.0
+Sunnyvale,70.0
+San Jose,70.0
+San Jose,70.0
+Santa Clara,70.0
+Santa Clara,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+Santa Clara,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+Santa Clara,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+Palo Alto,70.0
+Santa Clara,70.0
+Los Gatos,70.0
+Campbell,70.0
+San Jose,70.0
+Santa Clara,70.0
+Milpitas,70.0
+Santa Clara,70.0
+Santa Clara,70.0
+San Jose,70.0
+San Jose,70.0
+San Jose,70.0
+Mountain View,70.0
+Palo Alto,70.0
+San Jose,70.0
+Mountain View,71.0
+San Jose,71.0
+Santa Clara,71.0
+Sunnyvale,71.0
+San Jose,71.0
+Milpitas,71.0
+San Jose,71.0
+San Jose,71.0
+Saratoga,71.0
+San Jose,71.0
+Sunnyvale,71.0
+Santa Clara,71.0
+San Jose,72.0
+Cupertino,72.0
+Mountain View,72.0
+Sunnyvale,72.0
+Santa Clara,72.0
+Mountain View,72.0
+Palo Alto,72.0
+Cupertino,72.0
+San Jose,72.0
+San Jose,72.0
+San Jose,72.0
+San Jose,72.0
+San Jose,72.0
+San Jose,72.0
+Milpitas,72.0
+Palo Alto,72.0
+San Jose,72.0
+Mountain View,72.0
+Santa Clara,72.0
+Santa Clara,72.0
+Santa Clara,72.0
+Santa Clara,72.0
+Santa Clara,72.0
+Santa Clara,72.0
+San Jose,72.0
+Milpitas,72.0
+San Jose,72.0
+Sunnyvale,72.0
+Cupertino,72.0
+Los Gatos,72.0
+San Jose,72.0
+Santa Clara,72.0
+Santa Clara,72.0
+Santa Clara,72.0
+Santa Clara,72.0
+San Jose,72.0
+Palo Alto,72.0
+Palo Alto,72.0
+Palo Alto,72.0
+San Jose,72.0
+San Jose,73.0
+Santa Clara,73.0
+Saratoga,73.0
+Sunnyvale,73.0
+Palo Alto,73.0
+Palo Alto,73.0
+Los Altos Hills,73.0
+San Jose,73.0
+San Jose,73.0
+San Jose,73.0
+Mountain View,73.0
+Los Gatos,73.0
+Sunnyvale,74.0
+San Jose,74.0
+Sunnyvale,74.0
+Sunnyvale,74.0
+Sunnyvale,74.0
+San Jose,74.0
+San Jose,74.0
+San Jose,74.0
+Mountain View,74.0
+Mountain View,74.0
+Sunnyvale,74.0
+Santa Clara,74.0
+Santa Clara,74.0
+Sunnyvale,75.0
+Mountain View,75.0
+Santa Clara,75.0
+San Jose,75.0
+Santa Clara,75.0
+Mountain View,75.0
+Mountain View,75.0
+Santa Clara,75.0
+Morgan Hill,75.0
+San Jose,75.0
+Sunnyvale,75.0
+Sunnyvale,75.0
+Sunnyvale,75.0
+Santa Clara,75.0
+San Jose,75.0
+Sunnyvale,75.0
+San Jose,75.0
+San Jose,75.0
+Palo Alto,75.0
+San Jose,75.0
+Campbell,75.0
+Cupertino,75.0
+San Jose,75.0
+Sunnyvale,75.0
+Saratoga,75.0
+Santa Clara,75.0
+San Jose,75.0
+Saratoga,75.0
+Sunnyvale,75.0
+San Jose,75.0
+San Jose,75.0
+Sunnyvale,75.0
+Palo Alto,75.0
+San Jose,75.0
+San Jose,75.0
+Santa Clara,75.0
+Sunnyvale,75.0
+San Jose,75.0
+San Jose,75.0
+San Jose,75.0
+Sunnyvale,75.0
+Santa Clara,75.0
+Palo Alto,75.0
+Sunnyvale,75.0
+Mountain View,75.0
+Sunnyvale,75.0
+Santa Clara,75.0
+Santa Clara,75.0
+San Jose,75.0
+San Jose,75.0
+Santa Clara,75.0
+San Jose,75.0
+Santa Clara,75.0
+Sunnyvale,75.0
+Santa Clara,75.0
+Santa Clara,75.0
+San Jose,75.0
+Santa Clara,75.0
+Milpitas,75.0
+San Jose,75.0
+San Jose,75.0
+Mountain View,75.0
+San Jose,75.0
+Mountain View,75.0
+San Jose,75.0
+San Jose,75.0
+San Jose,75.0
+San Jose,75.0
+Palo Alto,75.0
+San Jose,75.0
+San Jose,75.0
+San Jose,75.0
+San Jose,75.0
+Santa Clara,75.0
+San Jose,75.0
+San Jose,75.0
+San Jose,75.0
+San Jose,75.0
+Palo Alto,75.0
+Milpitas,75.0
+San Jose,75.0
+Santa Clara,75.0
+San Jose,75.0
+Cupertino,75.0
+San Jose,75.0
+Mountain View,75.0
+San Jose,75.0
+San Jose,75.0
+Mountain View,75.0
+San Jose,75.0
+San Jose,75.0
+Milpitas,75.0
+Sunnyvale,75.0
+Los Gatos,75.0
+Campbell,75.0
+Mountain View,75.0
+San Jose,75.0
+Mountain View,75.0
+San Jose,75.0
+San Jose,75.0
+Santa Clara,75.0
+Santa Clara,75.0
+Los Gatos,75.0
+San Jose,75.0
+San Jose,75.0
+Los Altos,75.0
+Los Altos,75.0
+Los Altos,75.0
+Palo Alto,75.0
+San Jose,75.0
+Sunnyvale,75.0
+San Jose,75.0
+Palo Alto,75.0
+San Jose,75.0
+San Jose,75.0
+Morgan Hill,75.0
+Santa Clara,75.0
+San Jose,75.0
+Sunnyvale,75.0
+Sunnyvale,75.0
+San Jose,75.0
+San Jose,75.0
+San Jose,75.0
+Palo Alto,75.0
+Palo Alto,75.0
+Palo Alto,75.0
+Sunnyvale,75.0
+Sunnyvale,75.0
+San Jose,75.0
+San Jose,75.0
+Mountain View,75.0
+San Jose,75.0
+San Jose,75.0
+Sunnyvale,75.0
+San Jose,75.0
+Cupertino,75.0
+San Jose,75.0
+San Jose,75.0
+San Jose,75.0
+San Jose,75.0
+Los Gatos,75.0
+Los Gatos,75.0
+Sunnyvale,75.0
+San Jose,75.0
+Sunnyvale,75.0
+Santa Clara,75.0
+San Jose,75.0
+San Jose,75.0
+Palo Alto,75.0
+San Jose,75.0
+Santa Clara,75.0
+San Jose,75.0
+San Jose,75.0
+Campbell,75.0
+Sunnyvale,75.0
+Sunnyvale,75.0
+San Jose,75.0
+San Jose,75.0
+Sunnyvale,75.0
+Palo Alto,75.0
+Mountain View,75.0
+Palo Alto,75.0
+Palo Alto,75.0
+San Jose,75.0
+San Jose,75.0
+Sunnyvale,75.0
+San Jose,75.0
+Campbell,75.0
+San Jose,75.0
+Sunnyvale,75.0
+Sunnyvale,75.0
+Santa Clara,75.0
+Mountain View,75.0
+Sunnyvale,75.0
+San Jose,75.0
+San Jose,75.0
+Sunnyvale,75.0
+Sunnyvale,75.0
+Santa Clara,75.0
+Mountain View,75.0
+Cupertino,75.0
+San Jose,75.0
+San Jose,75.0
+Sunnyvale,75.0
+San Jose,75.0
+San Jose,75.0
+Sunnyvale,75.0
+Santa Clara,75.0
+Palo Alto,76.0
+San Jose,76.0
+Campbell,76.0
+Mountain View,76.0
+San Jose,76.0
+San Jose,76.0
+Sunnyvale,76.0
+San Jose,76.0
+Cupertino,76.0
+Watsonville,76.0
+Santa Clara,76.0
+Santa Clara,76.0
+San Jose,77.0
+San Jose,77.0
+Sunnyvale,77.0
+Santa Clara,77.0
+Sunnyvale,77.0
+Sunnyvale,77.0
+Palo Alto,77.0
+Sunnyvale,77.0
+San Jose,77.0
+Palo Alto,77.0
+Cupertino,77.0
+San Jose,77.0
+Palo Alto,77.0
+San Jose,78.0
+San Jose,78.0
+San Jose,78.0
+Sunnyvale,78.0
+Sunnyvale,78.0
+Campbell,78.0
+Santa Clara,78.0
+Milpitas,78.0
+Mountain View,78.0
+Sunnyvale,78.0
+San Jose,78.0
+Milpitas,78.0
+San Jose,78.0
+Santa Clara,78.0
+San Jose,78.0
+San Jose,78.0
+San Jose,78.0
+San Jose,78.0
+Palo Alto,78.0
+San Jose,78.0
+San Jose,78.0
+San Jose,78.0
+San Jose,78.0
+San Jose,78.0
+Sunnyvale,79.0
+Cupertino,79.0
+Campbell,79.0
+San Jose,79.0
+Palo Alto,79.0
+Los Gatos,79.0
+Los Gatos,79.0
+Sunnyvale,79.0
+Sunnyvale,79.0
+Palo Alto,79.0
+Palo Alto,79.0
+Santa Clara,79.0
+San Jose,79.0
+San Jose,79.0
+Cupertino,79.0
+San Jose,79.0
+Santa Clara,79.0
+Morgan Hill,79.0
+Sunnyvale,79.0
+Sunnyvale,79.0
+Sunnyvale,79.0
+Sunnyvale,79.0
+San Jose,79.0
+Milpitas,79.0
+San Jose,79.0
+Sunnyvale,79.0
+Gilroy,79.0
+Santa Clara,79.0
+Milpitas,79.0
+San Jose,79.0
+Mountain View,79.0
+Sunnyvale,79.0
+San Martin,79.0
+Mountain View,79.0
+Cupertino,79.0
+Mountain View,79.0
+San Jose,79.0
+San Jose,79.0
+San Jose,79.0
+Saratoga,79.0
+Cupertino,79.0
+Milpitas,79.0
+Sunnyvale,79.0
+Sunnyvale,79.0
+San Jose,79.0
+Milpitas,79.0
+San Jose,79.0
+Palo Alto,79.0
+Palo Alto,79.0
+Cupertino,79.0
+Cupertino,79.0
+Los Gatos,79.0
+San Jose,79.0
+San Jose,79.0
+San Jose,79.0
+Santa Clara,79.0
+San Jose,79.0
+San Jose,79.0
+Milpitas,79.0
+San Jose,79.0
+Santa Clara,79.0
+San Jose,79.0
+Palo Alto,79.0
+San Jose,79.0
+San Jose,79.0
+San Jose,79.0
+Sunnyvale,79.0
+Milpitas,79.0
+San Jose,79.0
+San Jose,79.0
+Sunnyvale,79.0
+San Jose,79.0
+San Jose,79.0
+Santa Clara,79.0
+San Jose,79.0
+San Jose,79.0
+Mountain View,79.0
+Santa Clara,79.0
+Santa Clara,79.0
+Mountain View,79.0
+Mountain View,79.0
+San Jose,79.0
+San Jose,79.0
+San Jose,79.0
+Sunnyvale,79.0
+San Jose,79.0
+Sunnyvale,79.0
+San Jose,79.0
+Cupertino,79.0
+Santa Clara,79.0
+San Jose,79.0
+Palo Alto,80.0
+Los Gatos,80.0
+San Jose,80.0
+Palo Alto,80.0
+San Jose,80.0
+Santa Clara,80.0
+Campbell,80.0
+Palo Alto,80.0
+Mountain View,80.0
+Cupertino,80.0
+San Jose,80.0
+San Jose,80.0
+Sunnyvale,80.0
+Milpitas,80.0
+Cupertino,80.0
+Palo Alto,80.0
+Santa Clara,80.0
+Palo Alto,80.0
+San Jose,80.0
+Santa Clara,80.0
+San Jose,80.0
+San Jose,80.0
+Santa Clara,80.0
+Sunnyvale,80.0
+Santa Clara,80.0
+Mountain View,80.0
+Los Altos Hills,80.0
+Santa Clara,80.0
+Mountain View,80.0
+San Jose,80.0
+San Jose,80.0
+Mountain View,80.0
+Santa Clara,80.0
+Palo Alto,80.0
+Santa Clara,80.0
+Sunnyvale,80.0
+Palo Alto,80.0
+San Jose,80.0
+Mountain View,80.0
+San Jose,80.0
+San Jose,80.0
+Sunnyvale,80.0
+Palo Alto,80.0
+San Jose,80.0
+Sunnyvale,80.0
+Morgan Hill,80.0
+San Jose,80.0
+San Jose,80.0
+Palo Alto,80.0
+San Jose,80.0
+Sunnyvale,80.0
+San Jose,80.0
+San Jose,80.0
+Palo Alto,80.0
+San Jose,80.0
+San Jose,80.0
+San Jose,80.0
+Los Altos,80.0
+Milpitas,80.0
+Campbell,80.0
+San Jose,80.0
+San Jose,80.0
+San Jose,80.0
+Santa Clara,80.0
+San Jose,80.0
+Palo Alto,80.0
+San Jose,80.0
+San Jose,80.0
+Sunnyvale,80.0
+Santa Clara,80.0
+Morgan Hill,80.0
+San Jose,80.0
+Campbell,80.0
+San Jose,80.0
+San Jose,80.0
+Sunnyvale,80.0
+San Jose,80.0
+Cupertino,80.0
+Santa Clara,80.0
+San Jose,80.0
+Mountain View,80.0
+Milpitas,80.0
+Campbell,80.0
+Palo Alto,80.0
+Mountain View,80.0
+San Jose,80.0
+Campbell,80.0
+Los Gatos,80.0
+Mountain View,80.0
+San Jose,80.0
+San Jose,80.0
+Palo Alto,80.0
+San Jose,80.0
+San Jose,80.0
+Palo Alto,80.0
+Milpitas,80.0
+Santa Clara,80.0
+Sunnyvale,80.0
+San Jose,80.0
+Milpitas,80.0
+Palo Alto,80.0
+San Jose,80.0
+Cupertino,80.0
+Mountain View,80.0
+San Jose,80.0
+Palo Alto,80.0
+San Jose,80.0
+Santa Clara,80.0
+San Jose,80.0
+San Jose,80.0
+Milpitas,80.0
+San Jose,80.0
+San Jose,80.0
+San Jose,80.0
+San Jose,80.0
+San Jose,80.0
+Sunnyvale,80.0
+Los Altos,80.0
+Santa Clara,80.0
+San Jose,80.0
+San Jose,80.0
+San Jose,80.0
+Santa Clara,80.0
+Sunnyvale,80.0
+San Jose,80.0
+San Jose,80.0
+San Jose,80.0
+Mountain View,80.0
+San Jose,80.0
+Santa Clara,80.0
+San Jose,80.0
+Palo Alto,80.0
+Palo Alto,80.0
+San Jose,80.0
+Milpitas,80.0
+Palo Alto,80.0
+Cupertino,80.0
+San Jose,80.0
+Cupertino,80.0
+San Jose,80.0
+Santa Clara,80.0
+Santa Clara,80.0
+San Jose,80.0
+Sunnyvale,80.0
+San Jose,80.0
+San Jose,80.0
+San Jose,80.0
+Palo Alto,80.0
+San Jose,81.0
+Palo Alto,81.0
+San Jose,81.0
+San Jose,81.0
+San Jose,81.0
+Santa Clara,81.0
+Sunnyvale,81.0
+San Jose,81.0
+Mountain View,81.0
+Sunnyvale,82.0
+Palo Alto,82.0
+Mountain View,82.0
+Milpitas,82.0
+San Jose,82.0
+San Jose,82.0
+San Jose,82.0
+San Jose,82.0
+Sunnyvale,82.0
+Santa Clara,82.0
+Morgan Hill,82.0
+Palo Alto,82.0
+San Jose,82.0
+San Jose,82.0
+San Jose,83.0
+Mountain View,83.0
+San Jose,83.0
+San Jose,83.0
+Los Gatos,83.0
+Palo Alto,83.0
+Mountain View,84.0
+Mountain View,84.0
+San Jose,84.0
+San Jose,84.0
+Palo Alto,84.0
+Palo Alto,84.0
+Milpitas,84.0
+Palo Alto,84.0
+Palo Alto,84.0
+San Jose,84.0
+San Jose,84.0
+Mountain View,84.0
+Santa Clara,85.0
+Palo Alto,85.0
+Mountain View,85.0
+Palo Alto,85.0
+Los Gatos,85.0
+San Jose,85.0
+Mountain View,85.0
+Morgan Hill,85.0
+Cupertino,85.0
+San Jose,85.0
+Palo Alto,85.0
+Palo Alto,85.0
+Sunnyvale,85.0
+Palo Alto,85.0
+Palo Alto,85.0
+San Jose,85.0
+Gilroy,85.0
+San Jose,85.0
+San Jose,85.0
+Cupertino,85.0
+Sunnyvale,85.0
+Sunnyvale,85.0
+Sunnyvale,85.0
+San Jose,85.0
+Saratoga,85.0
+Saratoga,85.0
+Palo Alto,85.0
+Los Gatos,85.0
+Palo Alto,85.0
+San Jose,85.0
+Mountain View,85.0
+Palo Alto,85.0
+Palo Alto,85.0
+San Jose,85.0
+Palo Alto,85.0
+Mountain View,85.0
+San Jose,85.0
+San Jose,85.0
+San Jose,85.0
+Mountain View,85.0
+Cupertino,85.0
+Santa Clara,85.0
+Los Gatos,85.0
+Sunnyvale,85.0
+San Jose,85.0
+Santa Clara,85.0
+Mountain View,85.0
+Milpitas,85.0
+Palo Alto,85.0
+Campbell,85.0
+Mountain View,85.0
+Sunnyvale,85.0
+Santa Clara,85.0
+San Jose,85.0
+San Jose,85.0
+Monte Sereno,85.0
+Cupertino,85.0
+San Jose,85.0
+Mountain View,85.0
+Mountain View,85.0
+Palo Alto,85.0
+Sunnyvale,85.0
+Sunnyvale,85.0
+Palo Alto,85.0
+Santa Clara,85.0
+Santa Clara,85.0
+San Jose,85.0
+Palo Alto,85.0
+Mountain View,85.0
+Palo Alto,85.0
+Sunnyvale,85.0
+San Jose,85.0
+San Jose,85.0
+Palo Alto,85.0
+San Jose,85.0
+Los Gatos,85.0
+Santa Clara,85.0
+Santa Clara,85.0
+Santa Clara,85.0
+Palo Alto,85.0
+San Jose,85.0
+San Jose,85.0
+Mountain View,85.0
+Saratoga,85.0
+Mountain View,85.0
+Palo Alto,85.0
+Palo Alto,85.0
+Santa Clara,85.0
+Palo Alto,85.0
+San Jose,85.0
+San Jose,85.0
+San Jose,85.0
+San Jose,85.0
+San Jose,85.0
+San Jose,85.0
+San Jose,85.0
+San Jose,85.0
+Palo Alto,85.0
+Palo Alto,85.0
+San Jose,85.0
+Mountain View,85.0
+Milpitas,85.0
+Saratoga,85.0
+Mountain View,85.0
+Sunnyvale,85.0
+Santa Clara,86.0
+Palo Alto,86.0
+Palo Alto,86.0
+San Jose,86.0
+San Jose,86.0
+Sunnyvale,87.0
+San Jose,87.0
+Mountain View,87.0
+Palo Alto,87.0
+Campbell,87.0
+Sunnyvale,87.0
+Sunnyvale,87.0
+Gilroy,87.0
+San Jose,88.0
+San Jose,88.0
+Mountain View,88.0
+Sunnyvale,88.0
+San Jose,88.0
+Palo Alto,88.0
+Cupertino,88.0
+Palo Alto,88.0
+San Jose,88.0
+San Jose,88.0
+Palo Alto,88.0
+Palo Alto,88.0
+San Jose,88.0
+Cupertino,88.0
+Cupertino,88.0
+Santa Clara,88.0
+San Jose,88.0
+San Jose,88.0
+San Jose,88.0
+San Jose,88.0
+San Jose,88.0
+San Jose,88.0
+Cupertino,88.0
+San Jose,88.0
+Santa Clara,88.0
+Cupertino,89.0
+San Jose,89.0
+Palo Alto,89.0
+Palo Alto,89.0
+Los Gatos,89.0
+Palo Alto,89.0
+Los Gatos,89.0
+Los Altos,89.0
+San Jose,89.0
+San Jose,89.0
+Morgan Hill,89.0
+San Jose,89.0
+Sunnyvale,89.0
+Mountain View,89.0
+Mountain View,89.0
+Mountain View,89.0
+Saratoga,89.0
+Sunnyvale,89.0
+San Jose,89.0
+Palo Alto,89.0
+Campbell,89.0
+San Jose,89.0
+San Jose,89.0
+Santa Clara,89.0
+San Jose,89.0
+San Jose,89.0
+San Jose,89.0
+San Jose,89.0
+Cupertino,89.0
+Milpitas,89.0
+Milpitas,89.0
+San Jose,89.0
+San Jose,89.0
+Palo Alto,89.0
+Santa Clara,89.0
+San Jose,89.0
+San Jose,89.0
+San Jose,89.0
+San Jose,89.0
+San Jose,89.0
+San Jose,89.0
+Los Altos,89.0
+San Jose,89.0
+Palo Alto,89.0
+San Jose,89.0
+Palo Alto,89.0
+Palo Alto,89.0
+Palo Alto,89.0
+Palo Alto,89.0
+San Jose,89.0
+Palo Alto,89.0
+San Jose,89.0
+Santa Clara,89.0
+San Jose,89.0
+Campbell,89.0
+San Jose,89.0
+Milpitas,89.0
+Mountain View,89.0
+Los Gatos,89.0
+Santa Clara,89.0
+San Jose,89.0
+Mountain View,89.0
+Sunnyvale,89.0
+San Jose,89.0
+Sunnyvale,89.0
+San Jose,89.0
+Mountain View,89.0
+Mountain View,89.0
+Palo Alto,90.0
+Palo Alto,90.0
+San Jose,90.0
+San Jose,90.0
+Mountain View,90.0
+San Jose,90.0
+Santa Clara,90.0
+Palo Alto,90.0
+San Jose,90.0
+Milpitas,90.0
+Los Altos Hills,90.0
+San Jose,90.0
+Cupertino,90.0
+San Jose,90.0
+Saratoga,90.0
+Palo Alto,90.0
+Mountain View,90.0
+San Jose,90.0
+San Jose,90.0
+Santa Clara,90.0
+San Jose,90.0
+Santa Clara,90.0
+Santa Clara,90.0
+San Jose,90.0
+San Jose,90.0
+Cupertino,90.0
+Saratoga,90.0
+Campbell,90.0
+Santa Clara,90.0
+Mountain View,90.0
+San Jose,90.0
+San Jose,90.0
+San Jose,90.0
+Palo Alto,90.0
+San Jose,90.0
+San Jose,90.0
+Milpitas,90.0
+San Jose,90.0
+Sunnyvale,90.0
+San Martin,90.0
+Santa Clara,90.0
+Cupertino,90.0
+Mountain View,90.0
+Sunnyvale,90.0
+San Jose,90.0
+Santa Clara,90.0
+San Jose,90.0
+San Jose,90.0
+San Jose,90.0
+Santa Clara,90.0
+Palo Alto,90.0
+San Jose,90.0
+Sunnyvale,90.0
+Sunnyvale,90.0
+Sunnyvale,90.0
+San Jose,90.0
+Sunnyvale,90.0
+San Jose,90.0
+San Jose,90.0
+Sunnyvale,90.0
+Santa Clara,90.0
+Santa Clara,90.0
+Mountain View,90.0
+Milpitas,90.0
+Palo Alto,90.0
+Los Altos,90.0
+San Jose,90.0
+San Jose,90.0
+Cupertino,90.0
+Saratoga,90.0
+San Jose,90.0
+San Jose,90.0
+San Jose,90.0
+San Jose,90.0
+Cupertino,90.0
+Sunnyvale,90.0
+San Jose,90.0
+Mountain View,90.0
+Santa Clara,90.0
+San Jose,90.0
+Palo Alto,90.0
+San Jose,90.0
+Santa Clara,90.0
+Mountain View,90.0
+Mountain View,90.0
+Los Altos Hills,90.0
+San Jose,90.0
+San Jose,90.0
+San Jose,90.0
+Milpitas,90.0
+San Jose,90.0
+Mountain View,90.0
+Santa Clara,90.0
+San Jose,90.0
+Mountain View,90.0
+San Jose,90.0
+San Jose,90.0
+Campbell,90.0
+Los Gatos,90.0
+Milpitas,90.0
+Mountain View,90.0
+Palo Alto,91.0
+San Jose,91.0
+Los Gatos,91.0
+Mountain View,92.0
+Los Altos Hills,92.0
+San Jose,92.0
+Cupertino,92.0
+Sunnyvale,92.0
+Palo Alto,92.0
+San Jose,92.0
+San Jose,92.0
+Mountain View,92.0
+Mountain View,92.0
+Santa Clara,92.0
+Saratoga,92.0
+Palo Alto,93.0
+Palo Alto,93.0
+San Jose,93.0
+Palo Alto,94.0
+Campbell,94.0
+Cupertino,94.0
+San Jose,94.0
+Palo Alto,94.0
+Sunnyvale,94.0
+Los Gatos,94.0
+San Jose,94.0
+Mountain View,94.0
+San Jose,94.0
+Sunnyvale,94.0
+Palo Alto,94.0
+Sunnyvale,94.0
+San Jose,94.0
+San Jose,94.0
+San Jose,94.0
+Palo Alto,94.0
+Palo Alto,95.0
+Mountain View,95.0
+Mountain View,95.0
+Monte Sereno,95.0
+San Jose,95.0
+San Jose,95.0
+Mountain View,95.0
+San Jose,95.0
+Mountain View,95.0
+San Jose,95.0
+Los Gatos,95.0
+San Jose,95.0
+San Jose,95.0
+Saratoga,95.0
+Campbell,95.0
+Saratoga,95.0
+San Jose,95.0
+Palo Alto,95.0
+Palo Alto,95.0
+Palo Alto,95.0
+Campbell,95.0
+San Jose,95.0
+Milpitas,95.0
+Palo Alto,95.0
+Palo Alto,95.0
+Milpitas,95.0
+San Jose,95.0
+Mountain View,95.0
+Palo Alto,95.0
+Palo Alto,95.0
+Cupertino,95.0
+San Jose,95.0
+San Jose,95.0
+San Jose,95.0
+San Jose,95.0
+San Jose,95.0
+Palo Alto,95.0
+San Jose,95.0
+Sunnyvale,95.0
+Mountain View,95.0
+Santa Clara,95.0
+Campbell,95.0
+Sunnyvale,95.0
+San Jose,95.0
+Mountain View,95.0
+Sunnyvale,95.0
+San Jose,95.0
+Campbell,95.0
+Palo Alto,95.0
+Palo Alto,95.0
+Sunnyvale,95.0
+Mountain View,95.0
+Palo Alto,95.0
+San Jose,95.0
+Palo Alto,95.0
+Campbell,95.0
+Los Altos,95.0
+Palo Alto,95.0
+Milpitas,95.0
+Palo Alto,95.0
+Los Gatos,95.0
+Palo Alto,95.0
+Palo Alto,95.0
+San Jose,95.0
+San Jose,95.0
+Santa Clara,95.0
+Los Gatos,95.0
+San Jose,95.0
+Santa Clara,95.0
+Santa Clara,95.0
+Santa Clara,95.0
+Sunnyvale,95.0
+Mountain View,95.0
+Palo Alto,95.0
+Mountain View,95.0
+Cupertino,95.0
+San Jose,95.0
+Palo Alto,95.0
+San Jose,95.0
+San Jose,95.0
+Palo Alto,95.0
+Palo Alto,95.0
+Palo Alto,95.0
+Palo Alto,95.0
+San Jose,95.0
+San Jose,95.0
+San Jose,95.0
+Palo Alto,95.0
+Santa Clara,95.0
+San Jose,95.0
+San Jose,96.0
+Mountain View,96.0
+Santa Clara,96.0
+Mountain View,96.0
+Los Gatos,96.0
+Campbell,96.0
+Cupertino,96.0
+Sunnyvale,96.0
+San Jose,96.0
+San Jose,96.0
+Mountain View,96.0
+Mountain View,96.0
+Mountain View,96.0
+Mountain View,96.0
+Mountain View,96.0
+Santa Clara,97.0
+Palo Alto,97.0
+Palo Alto,97.0
+Sunnyvale,97.0
+Palo Alto,97.0
+Sunnyvale,97.0
+Sunnyvale,97.0
+Sunnyvale,97.0
+San Jose,97.0
+Campbell,97.0
+Palo Alto,97.0
+Milpitas,97.0
+Mountain View,97.0
+Santa Clara,97.0
+Santa Clara,97.0
+San Jose,98.0
+Los Altos,98.0
+Los Gatos,98.0
+San Jose,98.0
+San Jose,98.0
+San Jose,98.0
+Palo Alto,98.0
+San Jose,98.0
+Milpitas,98.0
+Palo Alto,98.0
+Palo Alto,98.0
+Palo Alto,98.0
+San Jose,98.0
+San Jose,98.0
+San Jose,98.0
+Palo Alto,98.0
+Palo Alto,98.0
+Sunnyvale,98.0
+Santa Clara,98.0
+San Jose,98.0
+Cupertino,98.0
+San Jose,98.0
+Palo Alto,98.0
+Milpitas,98.0
+Mountain View,98.0
+Palo Alto,98.0
+Mountain View,98.0
+Mountain View,98.0
+Campbell,98.0
+San Jose,98.0
+Monte Sereno,98.0
+Santa Clara,98.0
+San Jose,98.0
+Palo Alto,98.0
+San Jose,98.0
+Los Gatos,98.0
+San Jose,98.0
+San Jose,98.0
+Palo Alto,98.0
+Mountain View,98.0
+Palo Alto,99.0
+Campbell,99.0
+Sunnyvale,99.0
+San Jose,99.0
+San Jose,99.0
+Cupertino,99.0
+Santa Clara,99.0
+San Jose,99.0
+San Jose,99.0
+San Jose,99.0
+Palo Alto,99.0
+San Jose,99.0
+Milpitas,99.0
+San Jose,99.0
+Palo Alto,99.0
+Cupertino,99.0
+Palo Alto,99.0
+Sunnyvale,99.0
+San Jose,99.0
+Sunnyvale,99.0
+San Jose,99.0
+Los Gatos,99.0
+San Jose,99.0
+San Jose,99.0
+Morgan Hill,99.0
+San Jose,99.0
+Cupertino,99.0
+Santa Clara,99.0
+San Jose,99.0
+San Jose,99.0
+San Jose,99.0
+Sunnyvale,99.0
+Mountain View,99.0
+Los Altos,99.0
+Cupertino,99.0
+Sunnyvale,99.0
+Sunnyvale,99.0
+Sunnyvale,99.0
+Palo Alto,99.0
+Palo Alto,99.0
+Cupertino,99.0
+Cupertino,99.0
+Sunnyvale,99.0
+San Jose,99.0
+San Jose,99.0
+San Jose,99.0
+Sunnyvale,99.0
+Cupertino,99.0
+San Jose,99.0
+San Jose,99.0
+Santa Clara,99.0
+San Jose,99.0
+Santa Clara,99.0
+San Jose,99.0
+San Jose,99.0
+San Jose,99.0
+Mountain View,99.0
+San Jose,99.0
+San Jose,99.0
+Santa Clara,99.0
+San Jose,99.0
+San Jose,99.0
+Sunnyvale,99.0
+San Jose,99.0
+San Jose,99.0
+Santa Clara,99.0
+Campbell,99.0
+Cupertino,99.0
+Cupertino,99.0
+San Jose,99.0
+San Jose,99.0
+Mountain View,99.0
+Palo Alto,99.0
+Santa Clara,99.0
+Sunnyvale,99.0
+Cupertino,99.0
+Sunnyvale,99.0
+San Jose,99.0
+Mountain View,99.0
+San Jose,99.0
+Morgan Hill,99.0
+Morgan Hill,99.0
+San Jose,99.0
+San Jose,99.0
+Los Gatos,99.0
+San Jose,99.0
+San Jose,99.0
+San Jose,99.0
+Sunnyvale,99.0
+Morgan Hill,99.0
+San Jose,99.0
+San Jose,99.0
+Los Gatos,99.0
+San Jose,99.0
+San Jose,99.0
+Santa Clara,99.0
+San Jose,99.0
+Sunnyvale,99.0
+San Jose,99.0
+Mountain View,99.0
+San Jose,99.0
+San Jose,99.0
+San Jose,99.0
+San Jose,99.0
+Palo Alto,99.0
+Milpitas,99.0
+San Jose,99.0
+Los Gatos,99.0
+Menlo Park,99.0
+Mountain View,99.0
+San Jose,99.0
+Palo Alto,100.0
+Sunnyvale,100.0
+Cupertino,100.0
+Palo Alto,100.0
+Sunnyvale,100.0
+San Jose,100.0
+Mountain View,100.0
+San Jose,100.0
+Los Gatos,100.0
+Milpitas,100.0
+Mountain View,100.0
+Milpitas,100.0
+Mountain View,100.0
+San Jose,100.0
+San Jose,100.0
+Sunnyvale,100.0
+Palo Alto,100.0
+San Jose,100.0
+Palo Alto,100.0
+Palo Alto,100.0
+San Jose,100.0
+San Jose,100.0
+Los Gatos,100.0
+Mountain View,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+Sunnyvale,100.0
+Palo Alto,100.0
+Campbell,100.0
+Mountain View,100.0
+Palo Alto,100.0
+Los Gatos,100.0
+Sunnyvale,100.0
+Santa Clara,100.0
+San Jose,100.0
+Los Gatos,100.0
+Palo Alto,100.0
+San Jose,100.0
+Palo Alto,100.0
+Palo Alto,100.0
+Monte Sereno,100.0
+Palo Alto,100.0
+Palo Alto,100.0
+Santa Clara,100.0
+Sunnyvale,100.0
+Cupertino,100.0
+Palo Alto,100.0
+San Jose,100.0
+Los Altos Hills,100.0
+Mountain View,100.0
+San Jose,100.0
+Palo Alto,100.0
+Sunnyvale,100.0
+Los Altos Hills,100.0
+San Jose,100.0
+San Jose,100.0
+Palo Alto,100.0
+Santa Clara,100.0
+San Jose,100.0
+Sunnyvale,100.0
+Palo Alto,100.0
+San Jose,100.0
+San Jose,100.0
+Sunnyvale,100.0
+San Jose,100.0
+San Jose,100.0
+Mountain View,100.0
+San Jose,100.0
+Mountain View,100.0
+Palo Alto,100.0
+San Jose,100.0
+San Jose,100.0
+Saratoga,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+Cupertino,100.0
+San Jose,100.0
+San Jose,100.0
+Menlo Park,100.0
+Palo Alto,100.0
+Campbell,100.0
+San Jose,100.0
+Sunnyvale,100.0
+San Jose,100.0
+Sunnyvale,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+Palo Alto,100.0
+Milpitas,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+San Martin,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+Sunnyvale,100.0
+Palo Alto,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+Campbell,100.0
+Milpitas,100.0
+Palo Alto,100.0
+San Martin,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+Campbell,100.0
+Mountain View,100.0
+Cupertino,100.0
+San Jose,100.0
+Cupertino,100.0
+San Jose,100.0
+San Jose,100.0
+Palo Alto,100.0
+San Jose,100.0
+San Jose,100.0
+Campbell,100.0
+San Jose,100.0
+Palo Alto,100.0
+Palo Alto,100.0
+Sunnyvale,100.0
+San Jose,100.0
+Palo Alto,100.0
+San Jose,100.0
+Cupertino,100.0
+Palo Alto,100.0
+Palo Alto,100.0
+Sunnyvale,100.0
+Sunnyvale,100.0
+Santa Clara,100.0
+San Jose,100.0
+Saratoga,100.0
+Palo Alto,100.0
+San Jose,100.0
+San Jose,100.0
+Morgan Hill,100.0
+Sunnyvale,100.0
+Palo Alto,100.0
+Mountain View,100.0
+San Jose,100.0
+Sunnyvale,100.0
+Sunnyvale,100.0
+Sunnyvale,100.0
+Sunnyvale,100.0
+Sunnyvale,100.0
+Milpitas,100.0
+San Jose,100.0
+San Jose,100.0
+Mountain View,100.0
+San Jose,100.0
+Milpitas,100.0
+Milpitas,100.0
+San Jose,100.0
+San Jose,100.0
+Mountain View,100.0
+San Jose,100.0
+San Jose,100.0
+Palo Alto,100.0
+Gilroy,100.0
+San Jose,100.0
+San Jose,100.0
+Sunnyvale,100.0
+Santa Clara,100.0
+Sunnyvale,100.0
+San Jose,100.0
+Mountain View,100.0
+Cupertino,100.0
+Cupertino,100.0
+Los Gatos,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+Mountain View,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+San Jose,100.0
+Campbell,100.0
+San Jose,100.0
+Mountain View,100.0
+San Jose,100.0
+Milpitas,100.0
+Campbell,100.0
+Milpitas,100.0
+Los Altos,100.0
+Los Altos,100.0
+San Jose,100.0
+Mountain View,100.0
+San Jose,100.0
+San Jose,100.0
+Santa Clara,100.0
+Mountain View,100.0
+Santa Clara,101.0
+Milpitas,101.0
+Stanford,101.0
+Santa Clara,101.0
+Mountain View,101.0
+Santa Clara,101.0
+Los Altos,101.0
+Mountain View,102.0
+San Jose,102.0
+Sunnyvale,102.0
+San Jose,102.0
+Mountain View,102.0
+Sunnyvale,102.0
+Los Altos,103.0
+San Jose,103.0
+Sunnyvale,104.0
+Santa Clara,104.0
+Palo Alto,104.0
+San Jose,104.0
+Palo Alto,104.0
+San Jose,104.0
+Mountain View,104.0
+San Jose,104.0
+Santa Clara,104.0
+Palo Alto,104.0
+Sunnyvale,104.0
+Santa Clara,104.0
+Santa Clara,105.0
+San Jose,105.0
+Santa Clara,105.0
+Mountain View,105.0
+Santa Clara,105.0
+Palo Alto,105.0
+San Jose,105.0
+Mountain View,105.0
+Santa Clara,105.0
+San Jose,105.0
+San Jose,105.0
+Mountain View,105.0
+Mountain View,105.0
+San Jose,105.0
+Mountain View,105.0
+Santa Clara,105.0
+San Jose,105.0
+Cupertino,105.0
+San Jose,105.0
+San Jose,105.0
+Santa Clara,105.0
+Milpitas,105.0
+Saratoga,105.0
+San Jose,105.0
+San Jose,105.0
+San Jose,105.0
+Palo Alto,105.0
+San Jose,105.0
+Palo Alto,105.0
+Santa Clara,105.0
+Palo Alto,105.0
+Sunnyvale,105.0
+San Jose,105.0
+San Jose,105.0
+San Jose,105.0
+Mountain View,105.0
+San Jose,105.0
+San Jose,105.0
+Palo Alto,105.0
+Mountain View,105.0
+Mountain View,105.0
+Mountain View,106.0
+San Jose,106.0
+Santa Clara,106.0
+San Jose,106.0
+Monte Sereno,106.0
+Palo Alto,106.0
+Mountain View,106.0
+Palo Alto,107.0
+San Jose,107.0
+Cupertino,107.0
+Palo Alto,108.0
+San Jose,108.0
+Palo Alto,108.0
+Santa Clara,108.0
+San Jose,108.0
+Sunnyvale,108.0
+San Jose,108.0
+Cupertino,108.0
+San Jose,108.0
+Los Altos,108.0
+San Jose,108.0
+Sunnyvale,108.0
+San Jose,108.0
+Cupertino,109.0
+Mountain View,109.0
+Milpitas,109.0
+Mountain View,109.0
+Mountain View,109.0
+San Jose,109.0
+San Jose,109.0
+Santa Clara,109.0
+Mountain View,109.0
+San Jose,109.0
+Los Gatos,109.0
+San Jose,109.0
+Mountain View,109.0
+Mountain View,109.0
+San Jose,109.0
+Palo Alto,109.0
+San Jose,109.0
+Sunnyvale,109.0
+Sunnyvale,109.0
+Cupertino,109.0
+Monte Sereno,109.0
+Mountain View,109.0
+Santa Clara,109.0
+Sunnyvale,109.0
+Santa Clara,109.0
+Sunnyvale,109.0
+San Jose,109.0
+San Jose,109.0
+Cupertino,109.0
+Santa Clara,109.0
+Cupertino,109.0
+Sunnyvale,109.0
+Santa Clara,109.0
+Sunnyvale,109.0
+Sunnyvale,109.0
+San Jose,109.0
+Mountain View,109.0
+Mountain View,109.0
+Palo Alto,110.0
+Palo Alto,110.0
+Sunnyvale,110.0
+Sunnyvale,110.0
+Palo Alto,110.0
+San Jose,110.0
+San Jose,110.0
+Los Altos,110.0
+Cupertino,110.0
+Palo Alto,110.0
+Campbell,110.0
+Los Gatos,110.0
+Mountain View,110.0
+San Jose,110.0
+Campbell,110.0
+Santa Clara,110.0
+San Jose,110.0
+Saratoga,110.0
+San Jose,110.0
+Los Altos,110.0
+Cupertino,110.0
+Campbell,110.0
+San Jose,110.0
+Cupertino,110.0
+Palo Alto,110.0
+Sunnyvale,110.0
+San Jose,110.0
+Santa Clara,110.0
+Palo Alto,110.0
+San Jose,110.0
+San Jose,110.0
+Palo Alto,110.0
+San Jose,110.0
+San Jose,110.0
+Palo Alto,110.0
+San Jose,110.0
+Milpitas,110.0
+Mountain View,110.0
+San Jose,110.0
+San Jose,110.0
+San Jose,110.0
+San Jose,110.0
+San Jose,110.0
+Sunnyvale,110.0
+Saratoga,110.0
+San Jose,110.0
+San Jose,110.0
+Campbell,110.0
+San Jose,110.0
+Sunnyvale,110.0
+San Jose,110.0
+Mountain View,110.0
+Sunnyvale,110.0
+Mountain View,110.0
+Los Gatos,110.0
+Mountain View,110.0
+San Jose,110.0
+Palo Alto,110.0
+Santa Clara,110.0
+Santa Clara,110.0
+Mountain View,110.0
+San Jose,110.0
+Mountain View,110.0
+Sunnyvale,110.0
+Sunnyvale,110.0
+Santa Clara,110.0
+Mountain View,110.0
+San Jose,110.0
+San Jose,110.0
+San Jose,110.0
+Santa Clara,110.0
+Mountain View,110.0
+San Jose,110.0
+Sunnyvale,110.0
+San Jose,110.0
+Sunnyvale,111.0
+Palo Alto,111.0
+Mountain View,111.0
+San Jose,111.0
+San Jose,111.0
+Palo Alto,111.0
+Saratoga,112.0
+San Jose,112.0
+Sunnyvale,112.0
+Los Gatos,112.0
+Los Altos,112.0
+Sunnyvale,112.0
+Sunnyvale,112.0
+San Jose,112.0
+Sunnyvale,112.0
+Mountain View,112.0
+Santa Clara,112.0
+Santa Clara,112.0
+Santa Clara,112.0
+San Jose,112.0
+Cupertino,113.0
+Palo Alto,113.0
+Cupertino,113.0
+San Jose,113.0
+San Jose,114.0
+Palo Alto,114.0
+Sunnyvale,114.0
+Mountain View,114.0
+San Jose,114.0
+San Jose,114.0
+Palo Alto,115.0
+Palo Alto,115.0
+Los Gatos,115.0
+Los Gatos,115.0
+Palo Alto,115.0
+Palo Alto,115.0
+Palo Alto,115.0
+Los Altos,115.0
+Santa Clara,115.0
+Sunnyvale,115.0
+Los Altos,115.0
+Palo Alto,115.0
+San Jose,115.0
+Sunnyvale,115.0
+San Jose,115.0
+Santa Clara,115.0
+Campbell,115.0
+San Jose,115.0
+Sunnyvale,115.0
+San Jose,115.0
+Santa Clara,115.0
+San Jose,115.0
+Los Gatos,115.0
+Palo Alto,115.0
+San Jose,115.0
+Santa Clara,115.0
+Sunnyvale,115.0
+San Jose,115.0
+Palo Alto,115.0
+Palo Alto,115.0
+San Jose,115.0
+Palo Alto,115.0
+Palo Alto,115.0
+Palo Alto,115.0
+San Jose,115.0
+Morgan Hill,115.0
+San Jose,115.0
+Los Gatos,115.0
+Sunnyvale,115.0
+Mountain View,115.0
+San Jose,115.0
+Morgan Hill,115.0
+Sunnyvale,115.0
+Sunnyvale,115.0
+San Jose,115.0
+Mountain View,115.0
+Mountain View,115.0
+Palo Alto,115.0
+San Jose,116.0
+San Jose,116.0
+Mountain View,116.0
+Mountain View,116.0
+San Jose,116.0
+San Jose,116.0
+San Jose,116.0
+Mountain View,117.0
+Palo Alto,117.0
+Cupertino,117.0
+San Jose,117.0
+San Jose,117.0
+Cupertino,117.0
+Cupertino,117.0
+Mountain View,117.0
+Sunnyvale,117.0
+Palo Alto,117.0
+Los Altos,118.0
+San Jose,118.0
+San Jose,118.0
+San Jose,118.0
+San Jose,118.0
+San Jose,118.0
+Milpitas,118.0
+San Jose,118.0
+Palo Alto,118.0
+Cupertino,118.0
+Sunnyvale,118.0
+Palo Alto,118.0
+San Jose,118.0
+San Jose,118.0
+Palo Alto,119.0
+San Jose,119.0
+Palo Alto,119.0
+Santa Clara,119.0
+Santa Clara,119.0
+Santa Clara,119.0
+Cupertino,119.0
+Morgan Hill,119.0
+San Jose,119.0
+Mountain View,119.0
+San Jose,119.0
+San Jose,119.0
+San Jose,119.0
+Palo Alto,119.0
+Sunnyvale,119.0
+Palo Alto,119.0
+Los Altos,119.0
+Morgan Hill,119.0
+San Jose,119.0
+Mountain View,119.0
+Mountain View,119.0
+Sunnyvale,119.0
+San Jose,119.0
+San Jose,119.0
+Sunnyvale,119.0
+San Jose,119.0
+San Jose,119.0
+Mountain View,119.0
+San Jose,119.0
+Milpitas,119.0
+Santa Clara,119.0
+Santa Clara,119.0
+Santa Clara,119.0
+San Jose,119.0
+Santa Clara,119.0
+Santa Clara,119.0
+Santa Clara,119.0
+Santa Clara,119.0
+Sunnyvale,119.0
+San Jose,119.0
+Palo Alto,120.0
+San Jose,120.0
+Milpitas,120.0
+Mountain View,120.0
+San Jose,120.0
+Mountain View,120.0
+Palo Alto,120.0
+Mountain View,120.0
+San Jose,120.0
+San Jose,120.0
+San Jose,120.0
+San Jose,120.0
+Campbell,120.0
+San Jose,120.0
+Santa Clara,120.0
+Cupertino,120.0
+Palo Alto,120.0
+Palo Alto,120.0
+Palo Alto,120.0
+Sunnyvale,120.0
+San Jose,120.0
+San Jose,120.0
+Sunnyvale,120.0
+Sunnyvale,120.0
+Sunnyvale,120.0
+Palo Alto,120.0
+San Jose,120.0
+Sunnyvale,120.0
+Santa Clara,120.0
+Palo Alto,120.0
+Cupertino,120.0
+San Jose,120.0
+Campbell,120.0
+Cupertino,120.0
+Mountain View,120.0
+San Jose,120.0
+San Jose,120.0
+Palo Alto,120.0
+Sunnyvale,120.0
+Sunnyvale,120.0
+San Jose,120.0
+San Jose,120.0
+Los Gatos,120.0
+San Jose,120.0
+San Jose,120.0
+Palo Alto,120.0
+Sunnyvale,120.0
+Mountain View,120.0
+Milpitas,120.0
+Campbell,120.0
+Santa Clara,120.0
+San Jose,120.0
+Cupertino,120.0
+Mountain View,120.0
+Sunnyvale,120.0
+Cupertino,120.0
+San Jose,120.0
+Milpitas,120.0
+San Jose,120.0
+Sunnyvale,120.0
+San Jose,120.0
+San Jose,120.0
+San Jose,120.0
+Palo Alto,120.0
+San Jose,120.0
+San Jose,120.0
+San Jose,120.0
+Santa Clara,120.0
+Palo Alto,120.0
+San Jose,120.0
+Mountain View,120.0
+Mountain View,120.0
+San Jose,120.0
+San Jose,120.0
+Sunnyvale,120.0
+Campbell,120.0
+San Jose,120.0
+Santa Clara,120.0
+Palo Alto,120.0
+Mountain View,120.0
+Mountain View,120.0
+Palo Alto,120.0
+San Jose,120.0
+San Jose,120.0
+Palo Alto,120.0
+Mountain View,120.0
+Mountain View,120.0
+San Jose,120.0
+San Jose,120.0
+Santa Clara,120.0
+San Jose,120.0
+San Jose,120.0
+Milpitas,120.0
+San Jose,120.0
+Santa Clara,120.0
+Santa Clara,120.0
+Los Altos,120.0
+Sunnyvale,120.0
+Milpitas,120.0
+Mountain View,120.0
+Palo Alto,120.0
+Palo Alto,120.0
+Santa Clara,120.0
+Mountain View,121.0
+Mountain View,121.0
+Santa Clara,121.0
+Palo Alto,121.0
+Sunnyvale,121.0
+Sunnyvale,121.0
+Sunnyvale,121.0
+San Jose,121.0
+Santa Clara,121.0
+Cupertino,121.0
+Santa Clara,121.0
+Milpitas,122.0
+Campbell,122.0
+Mountain View,122.0
+San Jose,122.0
+Santa Clara,122.0
+Mountain View,122.0
+Santa Clara,122.0
+Santa Clara,122.0
+Santa Clara,122.0
+Los Altos Hills,123.0
+Palo Alto,123.0
+San Jose,123.0
+Santa Clara,123.0
+Mountain View,123.0
+Mountain View,123.0
+Palo Alto,123.0
+Cupertino,124.0
+San Jose,124.0
+Mountain View,124.0
+Mountain View,124.0
+Palo Alto,124.0
+San Jose,124.0
+Cupertino,124.0
+Santa Clara,124.0
+San Jose,124.0
+Cupertino,124.0
+Cupertino,124.0
+Cupertino,124.0
+Palo Alto,125.0
+Palo Alto,125.0
+San Jose,125.0
+Sunnyvale,125.0
+Santa Clara,125.0
+Palo Alto,125.0
+Santa Clara,125.0
+San Jose,125.0
+San Jose,125.0
+San Jose,125.0
+Campbell,125.0
+San Jose,125.0
+Gilroy,125.0
+Mountain View,125.0
+Palo Alto,125.0
+San Jose,125.0
+Sunnyvale,125.0
+Morgan Hill,125.0
+Morgan Hill,125.0
+Palo Alto,125.0
+Palo Alto,125.0
+Mountain View,125.0
+Los Gatos,125.0
+Mountain View,125.0
+Saratoga,125.0
+Mountain View,125.0
+Palo Alto,125.0
+San Jose,125.0
+Cupertino,125.0
+San Jose,125.0
+Los Gatos,125.0
+Los Gatos,125.0
+San Jose,125.0
+Monte Sereno,125.0
+San Jose,125.0
+Sunnyvale,125.0
+Los Gatos,125.0
+San Jose,125.0
+Palo Alto,125.0
+Mountain View,125.0
+Sunnyvale,125.0
+Mountain View,125.0
+Santa Clara,125.0
+Palo Alto,125.0
+Mountain View,125.0
+Palo Alto,125.0
+San Jose,125.0
+Santa Clara,125.0
+Los Gatos,125.0
+Los Altos,125.0
+Gilroy,125.0
+San Jose,125.0
+San Jose,125.0
+Sunnyvale,125.0
+San Jose,125.0
+San Jose,125.0
+Palo Alto,125.0
+San Jose,125.0
+San Jose,125.0
+Sunnyvale,125.0
+Los Gatos,125.0
+San Jose,125.0
+San Jose,125.0
+San Martin,125.0
+Mountain View,125.0
+Sunnyvale,125.0
+Palo Alto,125.0
+Sunnyvale,125.0
+Los Gatos,125.0
+San Jose,125.0
+San Jose,125.0
+Morgan Hill,125.0
+Palo Alto,125.0
+Sunnyvale,125.0
+San Jose,125.0
+Mountain View,125.0
+Sunnyvale,125.0
+San Jose,125.0
+Mountain View,125.0
+Sunnyvale,125.0
+Palo Alto,125.0
+San Jose,125.0
+Sunnyvale,125.0
+San Jose,125.0
+San Jose,125.0
+Mountain View,125.0
+San Jose,125.0
+Mountain View,125.0
+San Jose,125.0
+San Jose,125.0
+San Jose,125.0
+Morgan Hill,125.0
+Milpitas,125.0
+Mountain View,126.0
+Los Gatos,126.0
+Palo Alto,126.0
+Palo Alto,126.0
+Cupertino,126.0
+Cupertino,126.0
+Mountain View,126.0
+Palo Alto,126.0
+San Jose,126.0
+Mountain View,126.0
+San Jose,126.0
+San Jose,127.0
+San Jose,127.0
+Santa Clara,127.0
+Mountain View,127.0
+Palo Alto,127.0
+San Jose,127.0
+Los Altos Hills,127.0
+Cupertino,127.0
+Cupertino,127.0
+Mountain View,128.0
+Saratoga,128.0
+Santa Clara,128.0
+Milpitas,128.0
+Mountain View,128.0
+Palo Alto,128.0
+San Jose,128.0
+San Jose,128.0
+Sunnyvale,128.0
+Sunnyvale,128.0
+Santa Clara,128.0
+Campbell,128.0
+San Jose,128.0
+Santa Clara,128.0
+San Jose,128.0
+San Jose,128.0
+Mountain View,128.0
+Mountain View,128.0
+Santa Clara,128.0
+Mountain View,128.0
+Santa Clara,128.0
+San Jose,128.0
+San Jose,128.0
+Palo Alto,129.0
+San Jose,129.0
+Santa Clara,129.0
+Santa Clara,129.0
+Santa Clara,129.0
+San Jose,129.0
+Monte Sereno,129.0
+Mountain View,129.0
+San Jose,129.0
+San Jose,129.0
+Santa Clara,129.0
+San Jose,129.0
+San Jose,129.0
+San Jose,129.0
+San Jose,129.0
+San Jose,129.0
+San Jose,129.0
+San Jose,129.0
+San Jose,129.0
+Morgan Hill,129.0
+Santa Clara,129.0
+San Jose,129.0
+Mountain View,129.0
+Cupertino,129.0
+San Jose,129.0
+San Jose,129.0
+San Jose,129.0
+Sunnyvale,129.0
+Palo Alto,129.0
+San Jose,129.0
+Sunnyvale,129.0
+Sunnyvale,129.0
+Sunnyvale,129.0
+Mountain View,129.0
+Sunnyvale,129.0
+San Jose,129.0
+Monte Sereno,129.0
+Santa Clara,129.0
+San Jose,129.0
+San Jose,129.0
+Santa Clara,129.0
+Cupertino,129.0
+Palo Alto,129.0
+San Jose,129.0
+Sunnyvale,129.0
+Mountain View,129.0
+San Jose,129.0
+San Jose,129.0
+San Jose,129.0
+San Jose,129.0
+Mountain View,129.0
+Santa Clara,129.0
+Santa Clara,129.0
+Palo Alto,129.0
+Santa Clara,129.0
+Mountain View,129.0
+Mountain View,129.0
+Mountain View,129.0
+Mountain View,129.0
+Mountain View,129.0
+Mountain View,130.0
+San Jose,130.0
+San Jose,130.0
+San Jose,130.0
+San Jose,130.0
+Palo Alto,130.0
+Los Gatos,130.0
+Palo Alto,130.0
+Cupertino,130.0
+Palo Alto,130.0
+Palo Alto,130.0
+Cupertino,130.0
+San Jose,130.0
+Palo Alto,130.0
+San Jose,130.0
+San Jose,130.0
+Sunnyvale,130.0
+Morgan Hill,130.0
+San Jose,130.0
+Sunnyvale,130.0
+Santa Clara,130.0
+Mountain View,130.0
+Sunnyvale,130.0
+Mountain View,130.0
+San Jose,130.0
+Palo Alto,130.0
+Sunnyvale,130.0
+Santa Clara,130.0
+Mountain View,130.0
+Palo Alto,130.0
+Sunnyvale,130.0
+Santa Clara,130.0
+Santa Clara,130.0
+San Jose,130.0
+San Jose,130.0
+Los Gatos,130.0
+San Jose,130.0
+San Jose,130.0
+Palo Alto,130.0
+Mountain View,130.0
+Sunnyvale,130.0
+San Jose,130.0
+Sunnyvale,130.0
+Sunnyvale,130.0
+Mountain View,130.0
+San Jose,130.0
+Santa Clara,130.0
+San Jose,130.0
+Saratoga,130.0
+San Jose,130.0
+Palo Alto,130.0
+San Jose,130.0
+Santa Clara,130.0
+Palo Alto,130.0
+Palo Alto,131.0
+San Jose,131.0
+Santa Clara,131.0
+San Jose,131.0
+Palo Alto,132.0
+Santa Clara,132.0
+Santa Clara,132.0
+Milpitas,132.0
+Palo Alto,132.0
+San Jose,132.0
+Cupertino,132.0
+Santa Clara,132.0
+Palo Alto,133.0
+Mountain View,133.0
+San Jose,133.0
+San Jose,133.0
+San Jose,133.0
+Los Altos,133.0
+San Jose,133.0
+Cupertino,134.0
+Los Gatos,134.0
+Los Gatos,134.0
+Santa Clara,134.0
+Cupertino,134.0
+San Jose,134.0
+Palo Alto,134.0
+Milpitas,134.0
+Santa Clara,134.0
+Palo Alto,134.0
+San Jose,135.0
+Mountain View,135.0
+Mountain View,135.0
+Mountain View,135.0
+San Jose,135.0
+Mountain View,135.0
+Palo Alto,135.0
+Palo Alto,135.0
+Sunnyvale,135.0
+San Jose,135.0
+San Martin,135.0
+Palo Alto,135.0
+Monte Sereno,135.0
+Palo Alto,135.0
+San Jose,135.0
+San Jose,135.0
+Palo Alto,135.0
+San Jose,135.0
+San Jose,135.0
+San Jose,135.0
+San Jose,135.0
+Milpitas,135.0
+Cupertino,135.0
+Palo Alto,135.0
+San Jose,135.0
+San Jose,135.0
+San Jose,135.0
+Milpitas,135.0
+Sunnyvale,135.0
+San Jose,135.0
+San Jose,135.0
+Monte Sereno,135.0
+Santa Clara,135.0
+San Jose,135.0
+San Jose,135.0
+San Jose,135.0
+Los Gatos,135.0
+San Jose,135.0
+San Jose,135.0
+Mountain View,135.0
+San Jose,135.0
+Sunnyvale,135.0
+Santa Clara,135.0
+San Jose,136.0
+Saratoga,136.0
+San Jose,136.0
+San Jose,136.0
+Mountain View,136.0
+Cupertino,136.0
+Cupertino,136.0
+Cupertino,136.0
+San Jose,136.0
+San Jose,136.0
+San Jose,136.0
+San Jose,137.0
+San Jose,137.0
+Cupertino,137.0
+Cupertino,137.0
+San Jose,137.0
+Mountain View,137.0
+San Jose,137.0
+Palo Alto,137.0
+Monte Sereno,138.0
+San Jose,138.0
+Mountain View,138.0
+Santa Clara,138.0
+Santa Clara,138.0
+Cupertino,138.0
+Mountain View,138.0
+San Jose,138.0
+Cupertino,138.0
+San Jose,138.0
+Palo Alto,138.0
+Cupertino,138.0
+San Jose,138.0
+Cupertino,138.0
+Santa Clara,138.0
+Santa Clara,138.0
+San Jose,138.0
+Palo Alto,139.0
+San Jose,139.0
+Santa Clara,139.0
+San Jose,139.0
+Milpitas,139.0
+San Jose,139.0
+Palo Alto,139.0
+San Jose,139.0
+Saratoga,139.0
+San Jose,139.0
+Milpitas,139.0
+San Jose,139.0
+Sunnyvale,139.0
+Palo Alto,139.0
+San Jose,139.0
+San Jose,139.0
+Palo Alto,139.0
+Cupertino,139.0
+San Jose,139.0
+San Jose,139.0
+San Jose,139.0
+Sunnyvale,139.0
+San Jose,139.0
+San Jose,139.0
+Sunnyvale,139.0
+San Jose,139.0
+Campbell,139.0
+Santa Clara,139.0
+San Jose,139.0
+Santa Clara,139.0
+Sunnyvale,139.0
+Sunnyvale,139.0
+Los Altos Hills,139.0
+Santa Clara,139.0
+Palo Alto,139.0
+Mountain View,139.0
+Santa Clara,139.0
+San Jose,139.0
+Sunnyvale,139.0
+Mountain View,139.0
+Mountain View,140.0
+Palo Alto,140.0
+Palo Alto,140.0
+Mountain View,140.0
+Palo Alto,140.0
+Los Gatos,140.0
+Los Altos Hills,140.0
+Los Gatos,140.0
+Campbell,140.0
+Palo Alto,140.0
+San Jose,140.0
+Los Gatos,140.0
+Los Altos,140.0
+San Jose,140.0
+San Jose,140.0
+San Jose,140.0
+Sunnyvale,140.0
+Palo Alto,140.0
+San Jose,140.0
+Sunnyvale,140.0
+Mountain View,140.0
+Santa Clara,140.0
+Saratoga,140.0
+Mountain View,140.0
+San Jose,140.0
+Palo Alto,140.0
+Palo Alto,140.0
+Campbell,140.0
+San Jose,140.0
+Palo Alto,140.0
+Palo Alto,140.0
+San Jose,140.0
+Mountain View,140.0
+Cupertino,140.0
+San Martin,140.0
+San Jose,140.0
+San Jose,140.0
+San Jose,140.0
+San Jose,140.0
+Sunnyvale,140.0
+San Jose,140.0
+San Jose,140.0
+Saratoga,140.0
+Sunnyvale,140.0
+Santa Clara,140.0
+San Jose,140.0
+Morgan Hill,140.0
+San Jose,140.0
+San Jose,140.0
+Santa Clara,140.0
+San Jose,140.0
+Palo Alto,140.0
+Santa Clara,140.0
+San Jose,140.0
+Sunnyvale,140.0
+Sunnyvale,140.0
+Mountain View,140.0
+Santa Clara,141.0
+Mountain View,141.0
+San Jose,141.0
+Mountain View,141.0
+Milpitas,141.0
+Sunnyvale,141.0
+Mountain View,142.0
+Mountain View,142.0
+San Jose,142.0
+Sunnyvale,142.0
+Cupertino,142.0
+Cupertino,142.0
+Cupertino,142.0
+Cupertino,142.0
+Cupertino,142.0
+Cupertino,142.0
+Cupertino,142.0
+San Jose,142.0
+Mountain View,142.0
+Santa Clara,143.0
+Sunnyvale,143.0
+San Jose,143.0
+Santa Clara,143.0
+San Jose,143.0
+San Jose,143.0
+Mountain View,143.0
+Santa Clara,143.0
+Santa Clara,143.0
+Mountain View,144.0
+San Jose,144.0
+San Jose,144.0
+Cupertino,144.0
+Cupertino,144.0
+Cupertino,144.0
+Milpitas,144.0
+Sunnyvale,144.0
+Mountain View,144.0
+San Jose,144.0
+Sunnyvale,144.0
+Santa Clara,144.0
+San Jose,144.0
+Mountain View,144.0
+Monte Sereno,145.0
+Sunnyvale,145.0
+San Jose,145.0
+San Jose,145.0
+Cupertino,145.0
+Mountain View,145.0
+Santa Clara,145.0
+Palo Alto,145.0
+Sunnyvale,145.0
+Morgan Hill,145.0
+Palo Alto,145.0
+Los Gatos,145.0
+Mountain View,145.0
+Palo Alto,145.0
+Milpitas,145.0
+Palo Alto,145.0
+Mountain View,145.0
+Palo Alto,145.0
+Los Altos,145.0
+Los Gatos,145.0
+Santa Clara,145.0
+San Jose,145.0
+San Jose,145.0
+Sunnyvale,145.0
+San Jose,145.0
+San Jose,145.0
+Santa Clara,145.0
+Mountain View,145.0
+Mountain View,145.0
+San Jose,145.0
+Sunnyvale,145.0
+Mountain View,145.0
+Mountain View,145.0
+Campbell,145.0
+Palo Alto,145.0
+Palo Alto,145.0
+Palo Alto,145.0
+San Jose,145.0
+San Jose,145.0
+Palo Alto,146.0
+Mountain View,146.0
+San Jose,146.0
+Sunnyvale,146.0
+Mountain View,146.0
+Mountain View,147.0
+Santa Clara,147.0
+Sunnyvale,147.0
+Cupertino,147.0
+Santa Clara,147.0
+Santa Clara,147.0
+San Jose,147.0
+Sunnyvale,147.0
+Santa Clara,147.0
+San Jose,148.0
+Mountain View,148.0
+San Jose,148.0
+Santa Clara,148.0
+San Jose,148.0
+Sunnyvale,148.0
+Milpitas,148.0
+San Jose,148.0
+Palo Alto,148.0
+San Jose,148.0
+San Jose,148.0
+San Jose,148.0
+Santa Clara,148.0
+San Jose,148.0
+San Jose,148.0
+Milpitas,148.0
+Mountain View,148.0
+Sunnyvale,148.0
+Sunnyvale,148.0
+Cupertino,148.0
+Los Gatos,149.0
+Cupertino,149.0
+Mountain View,149.0
+Palo Alto,149.0
+Santa Clara,149.0
+Los Altos Hills,149.0
+Los Gatos,149.0
+Mountain View,149.0
+San Jose,149.0
+San Jose,149.0
+San Jose,149.0
+Santa Clara,149.0
+San Jose,149.0
+San Jose,149.0
+San Jose,149.0
+Cupertino,149.0
+San Jose,149.0
+San Jose,149.0
+Santa Clara,149.0
+Santa Clara,149.0
+San Jose,149.0
+Santa Clara,149.0
+Santa Clara,149.0
+Palo Alto,149.0
+Santa Clara,149.0
+Santa Clara,149.0
+Palo Alto,149.0
+San Jose,149.0
+Mountain View,149.0
+San Jose,149.0
+Palo Alto,149.0
+Palo Alto,149.0
+Sunnyvale,149.0
+Palo Alto,149.0
+San Jose,149.0
+San Jose,149.0
+Santa Clara,149.0
+San Jose,149.0
+San Jose,149.0
+San Jose,149.0
+San Jose,149.0
+San Jose,149.0
+Sunnyvale,149.0
+Milpitas,149.0
+San Jose,149.0
+Mountain View,149.0
+San Jose,149.0
+Sunnyvale,149.0
+Sunnyvale,149.0
+San Jose,149.0
+San Jose,149.0
+Palo Alto,149.0
+Mountain View,149.0
+San Jose,149.0
+Sunnyvale,149.0
+San Jose,149.0
+Los Altos,149.0
+San Jose,149.0
+Santa Clara,149.0
+San Jose,149.0
+San Jose,149.0
+San Jose,149.0
+San Jose,149.0
+San Jose,149.0
+San Jose,149.0
+Santa Clara,149.0
+Mountain View,149.0
+Mountain View,150.0
+Mountain View,150.0
+San Jose,150.0
+Palo Alto,150.0
+San Jose,150.0
+Los Gatos,150.0
+Mountain View,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+Los Altos,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Mountain View,150.0
+Sunnyvale,150.0
+Santa Clara,150.0
+Palo Alto,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+Sunnyvale,150.0
+Palo Alto,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+Palo Alto,150.0
+San Jose,150.0
+Los Altos,150.0
+Morgan Hill,150.0
+San Jose,150.0
+Los Altos,150.0
+San Jose,150.0
+Mountain View,150.0
+Monte Sereno,150.0
+Los Altos Hills,150.0
+Santa Clara,150.0
+San Jose,150.0
+San Jose,150.0
+Palo Alto,150.0
+Campbell,150.0
+Palo Alto,150.0
+San Jose,150.0
+Mountain View,150.0
+San Jose,150.0
+Los Gatos,150.0
+San Jose,150.0
+Mountain View,150.0
+Los Altos Hills,150.0
+San Jose,150.0
+San Jose,150.0
+Morgan Hill,150.0
+San Jose,150.0
+Mountain View,150.0
+Palo Alto,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+Saratoga,150.0
+Mountain View,150.0
+Palo Alto,150.0
+Mountain View,150.0
+Palo Alto,150.0
+Palo Alto,150.0
+San Jose,150.0
+San Jose,150.0
+Mountain View,150.0
+San Jose,150.0
+Los Altos Hills,150.0
+Milpitas,150.0
+Palo Alto,150.0
+San Jose,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Santa Clara,150.0
+Cupertino,150.0
+Santa Clara,150.0
+San Jose,150.0
+Milpitas,150.0
+San Jose,150.0
+San Jose,150.0
+Sunnyvale,150.0
+San Jose,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+San Jose,150.0
+San Jose,150.0
+Los Gatos,150.0
+San Jose,150.0
+San Jose,150.0
+Los Gatos,150.0
+Sunnyvale,150.0
+San Jose,150.0
+Palo Alto,150.0
+Campbell,150.0
+Cupertino,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+Palo Alto,150.0
+Sunnyvale,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+Los Altos,150.0
+Sunnyvale,150.0
+Saratoga,150.0
+Palo Alto,150.0
+Palo Alto,150.0
+Milpitas,150.0
+Mountain View,150.0
+Mountain View,150.0
+San Jose,150.0
+Mountain View,150.0
+Mountain View,150.0
+Palo Alto,150.0
+Mountain View,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Sunnyvale,150.0
+Palo Alto,150.0
+Mountain View,150.0
+Mountain View,150.0
+Palo Alto,150.0
+San Jose,150.0
+San Jose,150.0
+San Jose,150.0
+Mountain View,150.0
+San Jose,150.0
+Palo Alto,150.0
+San Jose,150.0
+San Jose,150.0
+Gilroy,150.0
+San Jose,150.0
+Milpitas,150.0
+Palo Alto,150.0
+Milpitas,150.0
+San Jose,150.0
+Milpitas,150.0
+Milpitas,150.0
+San Jose,150.0
+Palo Alto,150.0
+San Jose,150.0
+San Jose,150.0
+Palo Alto,150.0
+Palo Alto,150.0
+San Jose,150.0
+Santa Clara,150.0
+Palo Alto,150.0
+San Jose,150.0
+Santa Clara,150.0
+Campbell,150.0
+Mountain View,150.0
+Santa Clara,151.0
+San Jose,151.0
+San Jose,151.0
+Mountain View,151.0
+San Jose,151.0
+Sunnyvale,151.0
+San Jose,152.0
+Sunnyvale,152.0
+Sunnyvale,152.0
+Sunnyvale,152.0
+San Jose,152.0
+Palo Alto,153.0
+Mountain View,153.0
+Santa Clara,153.0
+Santa Clara,153.0
+Palo Alto,154.0
+Santa Clara,154.0
+Sunnyvale,154.0
+Mountain View,154.0
+Sunnyvale,154.0
+Cupertino,154.0
+San Jose,154.0
+Milpitas,155.0
+Sunnyvale,155.0
+Palo Alto,155.0
+Mountain View,155.0
+Palo Alto,155.0
+Santa Clara,155.0
+Milpitas,155.0
+Mountain View,155.0
+Los Gatos,155.0
+San Jose,155.0
+San Jose,155.0
+Palo Alto,155.0
+San Jose,155.0
+San Jose,155.0
+San Jose,155.0
+Palo Alto,156.0
+San Jose,156.0
+Milpitas,156.0
+Cupertino,156.0
+San Jose,156.0
+San Jose,157.0
+Mountain View,157.0
+Santa Clara,157.0
+Cupertino,157.0
+Sunnyvale,157.0
+Mountain View,157.0
+Mountain View,158.0
+San Jose,158.0
+San Jose,158.0
+Mountain View,158.0
+San Jose,158.0
+San Jose,158.0
+San Jose,158.0
+Sunnyvale,158.0
+Palo Alto,158.0
+Santa Clara,158.0
+San Jose,158.0
+San Jose,159.0
+Palo Alto,159.0
+Palo Alto,159.0
+San Jose,159.0
+San Jose,159.0
+San Jose,159.0
+San Jose,159.0
+Sunnyvale,159.0
+Palo Alto,159.0
+Mountain View,159.0
+Santa Clara,159.0
+Sunnyvale,159.0
+San Jose,159.0
+Mountain View,159.0
+San Jose,159.0
+Cupertino,159.0
+Sunnyvale,159.0
+Santa Clara,159.0
+San Jose,159.0
+Palo Alto,159.0
+San Jose,159.0
+San Jose,159.0
+Palo Alto,159.0
+Sunnyvale,159.0
+Palo Alto,159.0
+San Jose,159.0
+San Jose,159.0
+Mountain View,159.0
+Palo Alto,159.0
+San Jose,159.0
+San Jose,159.0
+San Jose,159.0
+Los Altos,159.0
+Palo Alto,159.0
+San Jose,159.0
+Sunnyvale,159.0
+Palo Alto,160.0
+Palo Alto,160.0
+Palo Alto,160.0
+Campbell,160.0
+San Jose,160.0
+San Jose,160.0
+Palo Alto,160.0
+Cupertino,160.0
+San Jose,160.0
+San Jose,160.0
+Palo Alto,160.0
+Palo Alto,160.0
+Cupertino,160.0
+Sunnyvale,160.0
+San Jose,160.0
+Cupertino,160.0
+Mountain View,160.0
+Mountain View,160.0
+Cupertino,160.0
+San Jose,160.0
+Palo Alto,160.0
+Palo Alto,160.0
+San Jose,160.0
+San Jose,160.0
+San Jose,160.0
+San Jose,160.0
+Cupertino,160.0
+San Jose,160.0
+San Jose,160.0
+Milpitas,160.0
+Cupertino,160.0
+Palo Alto,160.0
+San Jose,160.0
+Palo Alto,160.0
+San Jose,160.0
+Palo Alto,160.0
+San Jose,160.0
+Saratoga,160.0
+Santa Clara,160.0
+Santa Clara,160.0
+Mountain View,160.0
+Mountain View,160.0
+Milpitas,160.0
+San Jose,160.0
+San Jose,160.0
+San Jose,160.0
+Santa Clara,160.0
+Santa Clara,160.0
+Mountain View,160.0
+Cupertino,161.0
+Palo Alto,161.0
+Mountain View,161.0
+Santa Clara,161.0
+Sunnyvale,161.0
+San Jose,161.0
+Santa Clara,161.0
+San Jose,162.0
+San Jose,163.0
+Milpitas,163.0
+San Jose,163.0
+Santa Clara,163.0
+San Jose,163.0
+Mountain View,163.0
+Santa Clara,163.0
+Santa Clara,164.0
+Milpitas,164.0
+Santa Clara,164.0
+Saratoga,164.0
+Saratoga,164.0
+Palo Alto,165.0
+Mountain View,165.0
+Santa Clara,165.0
+Palo Alto,165.0
+San Jose,165.0
+Mountain View,165.0
+San Jose,165.0
+Mountain View,165.0
+Palo Alto,165.0
+Mountain View,165.0
+Cupertino,165.0
+Cupertino,165.0
+Santa Clara,165.0
+San Jose,165.0
+Morgan Hill,165.0
+San Jose,165.0
+Santa Clara,165.0
+San Jose,165.0
+Sunnyvale,165.0
+Sunnyvale,165.0
+San Jose,165.0
+San Jose,165.0
+San Jose,165.0
+San Jose,165.0
+Los Gatos,165.0
+Gilroy,165.0
+Sunnyvale,165.0
+San Jose,165.0
+Los Gatos,165.0
+Sunnyvale,165.0
+Cupertino,165.0
+San Jose,166.0
+Sunnyvale,166.0
+Cupertino,166.0
+San Jose,166.0
+San Jose,166.0
+Gilroy,167.0
+Mountain View,167.0
+Santa Clara,167.0
+Milpitas,167.0
+Milpitas,167.0
+Santa Clara,167.0
+Palo Alto,168.0
+San Jose,168.0
+Mountain View,168.0
+Mountain View,168.0
+San Jose,168.0
+San Jose,168.0
+San Jose,168.0
+Santa Clara,168.0
+San Jose,168.0
+San Jose,168.0
+San Jose,168.0
+Sunnyvale,168.0
+San Jose,168.0
+Santa Clara,168.0
+Mountain View,169.0
+San Jose,169.0
+Palo Alto,169.0
+Los Altos,169.0
+San Jose,169.0
+San Jose,169.0
+Sunnyvale,169.0
+San Jose,169.0
+Santa Clara,169.0
+San Jose,169.0
+Santa Clara,169.0
+Mountain View,169.0
+San Jose,169.0
+San Jose,169.0
+San Jose,169.0
+San Jose,169.0
+San Jose,169.0
+Morgan Hill,169.0
+Mountain View,169.0
+Santa Clara,169.0
+San Jose,169.0
+San Jose,169.0
+Cupertino,169.0
+Santa Clara,169.0
+Sunnyvale,169.0
+Mountain View,169.0
+San Jose,169.0
+San Jose,169.0
+Santa Clara,169.0
+Sunnyvale,169.0
+Sunnyvale,169.0
+Mountain View,169.0
+Mountain View,169.0
+Mountain View,169.0
+Los Altos,169.0
+Sunnyvale,169.0
+San Jose,169.0
+Palo Alto,170.0
+San Jose,170.0
+Cupertino,170.0
+Los Altos Hills,170.0
+Morgan Hill,170.0
+Santa Clara,170.0
+Mountain View,170.0
+Los Altos,170.0
+Sunnyvale,170.0
+San Jose,170.0
+Sunnyvale,170.0
+Palo Alto,170.0
+Campbell,170.0
+Mountain View,170.0
+San Jose,170.0
+San Jose,170.0
+Cupertino,170.0
+Cupertino,170.0
+Cupertino,170.0
+Cupertino,170.0
+Milpitas,170.0
+Palo Alto,170.0
+San Jose,170.0
+Sunnyvale,170.0
+Santa Clara,170.0
+San Jose,170.0
+Cupertino,171.0
+Milpitas,171.0
+San Jose,171.0
+Mountain View,171.0
+San Jose,172.0
+San Jose,172.0
+San Jose,172.0
+Palo Alto,172.0
+San Jose,172.0
+San Jose,172.0
+Palo Alto,172.0
+San Jose,172.0
+Palo Alto,173.0
+San Jose,173.0
+Santa Clara,173.0
+San Jose,173.0
+Sunnyvale,173.0
+Sunnyvale,173.0
+Mountain View,173.0
+San Jose,173.0
+San Jose,174.0
+Palo Alto,174.0
+Milpitas,174.0
+San Jose,174.0
+Palo Alto,174.0
+Cupertino,174.0
+Palo Alto,175.0
+Los Gatos,175.0
+Palo Alto,175.0
+San Jose,175.0
+Palo Alto,175.0
+Palo Alto,175.0
+Palo Alto,175.0
+Palo Alto,175.0
+San Jose,175.0
+San Jose,175.0
+Campbell,175.0
+Cupertino,175.0
+Santa Clara,175.0
+Los Altos,175.0
+Santa Clara,175.0
+Palo Alto,175.0
+Palo Alto,175.0
+Cupertino,175.0
+San Jose,175.0
+Santa Clara,175.0
+San Jose,175.0
+Campbell,175.0
+Santa Clara,175.0
+Los Gatos,175.0
+Palo Alto,175.0
+Los Gatos,175.0
+Palo Alto,175.0
+Palo Alto,175.0
+Monte Sereno,175.0
+Sunnyvale,175.0
+Mountain View,175.0
+Santa Clara,175.0
+Mountain View,175.0
+Los Altos Hills,175.0
+Mountain View,175.0
+Milpitas,175.0
+Santa Clara,175.0
+Palo Alto,175.0
+Sunnyvale,175.0
+San Jose,175.0
+San Martin,175.0
+San Jose,175.0
+Palo Alto,175.0
+Mountain View,175.0
+Mountain View,175.0
+Santa Clara,175.0
+Santa Clara,175.0
+San Jose,175.0
+San Jose,175.0
+Los Gatos,175.0
+San Martin,175.0
+San Jose,175.0
+San Jose,175.0
+San Jose,175.0
+Campbell,175.0
+San Jose,175.0
+Palo Alto,175.0
+San Jose,175.0
+Palo Alto,175.0
+Palo Alto,175.0
+San Jose,175.0
+San Jose,175.0
+San Jose,176.0
+Mountain View,176.0
+Palo Alto,176.0
+San Jose,176.0
+San Jose,176.0
+Palo Alto,176.0
+Campbell,176.0
+Santa Clara,176.0
+Sunnyvale,177.0
+San Jose,177.0
+Mountain View,177.0
+Santa Clara,177.0
+Sunnyvale,177.0
+Sunnyvale,177.0
+Mountain View,177.0
+Santa Clara,177.0
+Sunnyvale,177.0
+Palo Alto,177.0
+Saratoga,177.0
+Mountain View,177.0
+Santa Clara,178.0
+Santa Clara,178.0
+San Jose,178.0
+Milpitas,178.0
+San Jose,178.0
+San Jose,178.0
+Santa Clara,178.0
+Mountain View,178.0
+Palo Alto,179.0
+Palo Alto,179.0
+San Jose,179.0
+Palo Alto,179.0
+Palo Alto,179.0
+Palo Alto,179.0
+Palo Alto,179.0
+San Jose,179.0
+Palo Alto,179.0
+San Jose,179.0
+Mountain View,179.0
+Sunnyvale,179.0
+San Jose,179.0
+Saratoga,179.0
+Santa Clara,179.0
+Sunnyvale,179.0
+San Jose,179.0
+Palo Alto,179.0
+Santa Clara,179.0
+San Jose,179.0
+Milpitas,179.0
+Mountain View,179.0
+Cupertino,179.0
+San Jose,179.0
+Mountain View,179.0
+San Jose,179.0
+Campbell,179.0
+San Jose,179.0
+San Jose,179.0
+Palo Alto,179.0
+San Jose,179.0
+Mountain View,179.0
+Mountain View,179.0
+Mountain View,179.0
+Mountain View,179.0
+Sunnyvale,180.0
+Palo Alto,180.0
+Palo Alto,180.0
+San Jose,180.0
+Santa Clara,180.0
+Palo Alto,180.0
+Milpitas,180.0
+Mountain View,180.0
+Cupertino,180.0
+San Jose,180.0
+Palo Alto,180.0
+Palo Alto,180.0
+Sunnyvale,180.0
+Palo Alto,180.0
+San Jose,180.0
+Cupertino,180.0
+Mountain View,180.0
+Mountain View,180.0
+San Jose,180.0
+Palo Alto,180.0
+San Jose,180.0
+San Jose,180.0
+Sunnyvale,180.0
+San Jose,180.0
+Palo Alto,180.0
+Santa Clara,180.0
+Mountain View,180.0
+San Jose,180.0
+Mountain View,180.0
+Mountain View,180.0
+San Jose,180.0
+Campbell,180.0
+San Jose,180.0
+Gilroy,180.0
+Sunnyvale,180.0
+San Jose,180.0
+San Jose,180.0
+Palo Alto,180.0
+Milpitas,180.0
+San Jose,180.0
+San Jose,180.0
+San Jose,180.0
+Mountain View,180.0
+San Jose,180.0
+Mountain View,180.0
+Sunnyvale,181.0
+Sunnyvale,181.0
+Mountain View,181.0
+Sunnyvale,181.0
+San Jose,181.0
+Mountain View,182.0
+Mountain View,182.0
+Santa Clara,182.0
+Mountain View,182.0
+Los Gatos,183.0
+San Jose,183.0
+San Jose,183.0
+Saratoga,183.0
+Sunnyvale,183.0
+Santa Clara,184.0
+San Jose,184.0
+Milpitas,184.0
+San Jose,184.0
+Milpitas,184.0
+Palo Alto,185.0
+Palo Alto,185.0
+Palo Alto,185.0
+Palo Alto,185.0
+Palo Alto,185.0
+Palo Alto,185.0
+San Jose,185.0
+Santa Clara,185.0
+Mountain View,185.0
+Mountain View,185.0
+San Jose,185.0
+San Jose,185.0
+San Jose,185.0
+San Jose,185.0
+San Jose,185.0
+San Jose,185.0
+Santa Clara,185.0
+San Jose,185.0
+Cupertino,185.0
+Santa Clara,186.0
+Sunnyvale,186.0
+Santa Clara,186.0
+Mountain View,186.0
+San Jose,186.0
+San Jose,186.0
+Los Altos,187.0
+San Jose,187.0
+San Jose,187.0
+San Jose,187.0
+San Jose,187.0
+San Jose,187.0
+San Jose,187.0
+Sunnyvale,187.0
+San Jose,187.0
+Saratoga,187.0
+San Jose,187.0
+Sunnyvale,188.0
+Sunnyvale,188.0
+Cupertino,188.0
+Palo Alto,188.0
+Sunnyvale,188.0
+San Jose,188.0
+Campbell,188.0
+Palo Alto,188.0
+San Jose,188.0
+Santa Clara,188.0
+Cupertino,189.0
+San Jose,189.0
+San Jose,189.0
+San Jose,189.0
+San Jose,189.0
+Campbell,189.0
+San Jose,189.0
+Palo Alto,189.0
+San Jose,189.0
+San Jose,189.0
+Mountain View,189.0
+Sunnyvale,189.0
+Sunnyvale,189.0
+San Jose,189.0
+San Jose,189.0
+San Jose,189.0
+Los Altos,189.0
+Palo Alto,189.0
+San Jose,189.0
+San Jose,189.0
+Mountain View,189.0
+Mountain View,189.0
+Sunnyvale,189.0
+Mountain View,189.0
+Santa Clara,189.0
+Campbell,189.0
+Milpitas,189.0
+Mountain View,189.0
+Cupertino,189.0
+San Jose,189.0
+San Jose,189.0
+San Jose,189.0
+San Jose,189.0
+San Jose,189.0
+Santa Clara,189.0
+Palo Alto,189.0
+San Jose,189.0
+San Jose,189.0
+Palo Alto,189.0
+Menlo Park,190.0
+Mountain View,190.0
+San Jose,190.0
+San Jose,190.0
+San Jose,190.0
+San Jose,190.0
+San Jose,190.0
+San Jose,190.0
+Palo Alto,190.0
+Mountain View,190.0
+Mountain View,190.0
+San Jose,190.0
+San Jose,190.0
+San Jose,190.0
+San Jose,190.0
+Sunnyvale,190.0
+Palo Alto,190.0
+Sunnyvale,190.0
+San Jose,190.0
+Santa Clara,190.0
+Sunnyvale,190.0
+Sunnyvale,190.0
+San Jose,190.0
+Palo Alto,190.0
+Mountain View,191.0
+Mountain View,191.0
+San Jose,191.0
+Mountain View,191.0
+Palo Alto,192.0
+Palo Alto,192.0
+Sunnyvale,192.0
+Santa Clara,192.0
+Santa Clara,192.0
+Palo Alto,193.0
+Mountain View,194.0
+San Jose,194.0
+Milpitas,194.0
+Santa Clara,195.0
+San Jose,195.0
+San Jose,195.0
+Mountain View,195.0
+Santa Clara,195.0
+Sunnyvale,195.0
+Palo Alto,195.0
+Sunnyvale,195.0
+Sunnyvale,195.0
+Sunnyvale,195.0
+Santa Clara,195.0
+Santa Clara,195.0
+Mountain View,195.0
+Mountain View,195.0
+San Jose,195.0
+Sunnyvale,195.0
+San Jose,195.0
+San Jose,195.0
+Palo Alto,195.0
+Sunnyvale,195.0
+San Jose,195.0
+Mountain View,195.0
+San Jose,195.0
+Santa Clara,195.0
+Gilroy,195.0
+San Jose,196.0
+Milpitas,196.0
+San Jose,197.0
+San Jose,197.0
+San Jose,197.0
+Santa Clara,197.0
+Santa Clara,197.0
+Santa Clara,197.0
+Los Gatos,198.0
+San Jose,198.0
+San Jose,198.0
+Mountain View,198.0
+San Jose,198.0
+Mountain View,198.0
+Palo Alto,198.0
+San Jose,198.0
+San Jose,198.0
+Cupertino,198.0
+Sunnyvale,198.0
+Los Altos Hills,198.0
+San Jose,198.0
+San Jose,198.0
+Milpitas,198.0
+San Jose,199.0
+Los Gatos,199.0
+Cupertino,199.0
+Campbell,199.0
+Hollister,199.0
+Milpitas,199.0
+Cupertino,199.0
+Sunnyvale,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+Mountain View,199.0
+Los Altos Hills,199.0
+Palo Alto,199.0
+Sunnyvale,199.0
+San Jose,199.0
+Mountain View,199.0
+San Jose,199.0
+Sunnyvale,199.0
+Palo Alto,199.0
+Mountain View,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+Mountain View,199.0
+Sunnyvale,199.0
+Mountain View,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+Palo Alto,199.0
+San Jose,199.0
+Mountain View,199.0
+Palo Alto,199.0
+Santa Clara,199.0
+San Jose,199.0
+Santa Clara,199.0
+Cupertino,199.0
+Santa Clara,199.0
+Sunnyvale,199.0
+San Jose,199.0
+San Jose,199.0
+Mountain View,199.0
+Milpitas,199.0
+San Jose,199.0
+San Jose,199.0
+Mountain View,199.0
+San Jose,199.0
+Mountain View,199.0
+Palo Alto,199.0
+Palo Alto,199.0
+Palo Alto,199.0
+Campbell,199.0
+Milpitas,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+Santa Clara,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+San Jose,199.0
+Sunnyvale,199.0
+Los Altos,199.0
+Santa Clara,199.0
+Santa Clara,199.0
+Sunnyvale,199.0
+Cupertino,199.0
+Palo Alto,199.0
+Mountain View,199.0
+Mountain View,199.0
+Palo Alto,199.0
+San Jose,199.0
+San Jose,199.0
+Palo Alto,199.0
+San Jose,199.0
+Palo Alto,199.0
+Sunnyvale,199.0
+Sunnyvale,199.0
+San Jose,199.0
+San Jose,199.0
+Cupertino,199.0
+Palo Alto,200.0
+San Jose,200.0
+Los Gatos,200.0
+Palo Alto,200.0
+Palo Alto,200.0
+Palo Alto,200.0
+San Jose,200.0
+San Jose,200.0
+Mountain View,200.0
+Santa Clara,200.0
+San Jose,200.0
+San Jose,200.0
+Mountain View,200.0
+Sunnyvale,200.0
+Sunnyvale,200.0
+San Jose,200.0
+Sunnyvale,200.0
+San Jose,200.0
+San Jose,200.0
+Palo Alto,200.0
+Los Gatos,200.0
+Los Altos Hills,200.0
+San Jose,200.0
+Los Gatos,200.0
+San Jose,200.0
+Palo Alto,200.0
+Santa Clara,200.0
+Palo Alto,200.0
+Palo Alto,200.0
+San Jose,200.0
+San Jose,200.0
+Santa Clara,200.0
+Mountain View,200.0
+San Jose,200.0
+San Jose,200.0
+Sunnyvale,200.0
+San Jose,200.0
+Los Gatos,200.0
+Los Gatos,200.0
+San Jose,200.0
+San Jose,200.0
+San Jose,200.0
+Sunnyvale,200.0
+San Jose,200.0
+Palo Alto,200.0
+Gilroy,200.0
+Santa Clara,200.0
+San Jose,200.0
+Palo Alto,200.0
+Los Altos Hills,200.0
+Palo Alto,200.0
+San Jose,200.0
+Cupertino,200.0
+Campbell,200.0
+Palo Alto,200.0
+Los Altos Hills,200.0
+San Jose,200.0
+Los Altos Hills,200.0
+Sunnyvale,200.0
+San Jose,200.0
+Santa Clara,200.0
+Palo Alto,200.0
+Sunnyvale,200.0
+Sunnyvale,200.0
+Sunnyvale,200.0
+Sunnyvale,200.0
+San Jose,200.0
+Palo Alto,200.0
+Mountain View,200.0
+Santa Clara,200.0
+San Jose,200.0
+Mountain View,200.0
+Mountain View,200.0
+Palo Alto,200.0
+San Jose,200.0
+Milpitas,200.0
+Campbell,200.0
+San Jose,200.0
+Los Altos Hills,200.0
+San Jose,200.0
+San Jose,200.0
+San Jose,200.0
+San Jose,200.0
+San Jose,200.0
+San Jose,200.0
+Mountain View,200.0
+San Jose,200.0
+San Jose,200.0
+Mountain View,200.0
+Santa Clara,200.0
+San Jose,200.0
+Mountain View,200.0
+Mountain View,200.0
+San Jose,200.0
+Sunnyvale,200.0
+Mountain View,200.0
+San Jose,200.0
+San Jose,200.0
+Sunnyvale,200.0
+Palo Alto,200.0
+Palo Alto,200.0
+Los Gatos,200.0
+San Jose,200.0
+Palo Alto,200.0
+Los Gatos,200.0
+Sunnyvale,200.0
+San Jose,200.0
+San Jose,200.0
+Santa Clara,200.0
+Sunnyvale,200.0
+San Jose,200.0
+San Jose,200.0
+Sunnyvale,200.0
+San Jose,201.0
+Santa Clara,201.0
+San Jose,201.0
+Sunnyvale,202.0
+San Jose,202.0
+San Jose,202.0
+San Jose,203.0
+Cupertino,203.0
+San Jose,204.0
+San Jose,204.0
+Sunnyvale,204.0
+San Jose,204.0
+Sunnyvale,204.0
+Los Altos Hills,205.0
+San Jose,205.0
+Mountain View,205.0
+Sunnyvale,205.0
+San Jose,205.0
+Sunnyvale,205.0
+Sunnyvale,205.0
+Sunnyvale,205.0
+San Jose,205.0
+San Jose,205.0
+Los Gatos,205.0
+San Jose,207.0
+Mountain View,208.0
+San Jose,208.0
+Santa Clara,208.0
+Cupertino,208.0
+San Jose,209.0
+Los Altos,209.0
+Mountain View,209.0
+Palo Alto,209.0
+Mountain View,209.0
+Los Gatos,209.0
+Sunnyvale,209.0
+San Jose,209.0
+Santa Clara,209.0
+Sunnyvale,209.0
+San Jose,209.0
+Santa Clara,209.0
+San Jose,209.0
+San Jose,209.0
+San Jose,210.0
+Palo Alto,210.0
+Mountain View,210.0
+Sunnyvale,210.0
+Mountain View,210.0
+Sunnyvale,210.0
+Palo Alto,211.0
+Mountain View,211.0
+San Jose,211.0
+Santa Clara,211.0
+San Jose,211.0
+Mountain View,212.0
+Sunnyvale,212.0
+Sunnyvale,212.0
+Palo Alto,213.0
+Mountain View,213.0
+San Jose,213.0
+San Jose,213.0
+Los Gatos,214.0
+Palo Alto,215.0
+Sunnyvale,215.0
+San Jose,215.0
+Milpitas,215.0
+San Jose,215.0
+Sunnyvale,215.0
+San Jose,215.0
+Milpitas,215.0
+Santa Clara,215.0
+Palo Alto,215.0
+San Jose,215.0
+San Jose,215.0
+San Jose,215.0
+San Jose,216.0
+San Jose,216.0
+San Jose,216.0
+San Jose,216.0
+Santa Clara,216.0
+San Jose,217.0
+San Jose,217.0
+San Jose,218.0
+San Jose,218.0
+San Jose,218.0
+San Jose,218.0
+Milpitas,218.0
+San Jose,218.0
+San Jose,218.0
+San Jose,218.0
+Mountain View,218.0
+San Jose,218.0
+Los Altos Hills,219.0
+San Jose,219.0
+San Jose,219.0
+San Jose,219.0
+San Jose,219.0
+Palo Alto,219.0
+Mountain View,219.0
+Mountain View,219.0
+Palo Alto,219.0
+San Jose,219.0
+San Jose,219.0
+Santa Clara,219.0
+Santa Clara,219.0
+Santa Clara,219.0
+Palo Alto,220.0
+San Jose,220.0
+San Jose,220.0
+San Jose,220.0
+Campbell,220.0
+San Jose,220.0
+San Jose,220.0
+Cupertino,220.0
+Mountain View,220.0
+Mountain View,220.0
+Milpitas,220.0
+Santa Clara,220.0
+San Jose,220.0
+Santa Clara,220.0
+Santa Clara,220.0
+Mountain View,220.0
+Sunnyvale,220.0
+Sunnyvale,220.0
+Santa Clara,220.0
+Palo Alto,220.0
+Mountain View,220.0
+Sunnyvale,221.0
+Sunnyvale,221.0
+Sunnyvale,221.0
+Milpitas,221.0
+Campbell,222.0
+Sunnyvale,222.0
+Mountain View,222.0
+San Jose,224.0
+San Jose,224.0
+Mountain View,225.0
+San Jose,225.0
+San Jose,225.0
+Sunnyvale,225.0
+San Jose,225.0
+Cupertino,225.0
+Mountain View,225.0
+Santa Clara,225.0
+Los Altos,225.0
+Cupertino,225.0
+San Jose,225.0
+Palo Alto,225.0
+San Jose,225.0
+Mountain View,225.0
+Los Altos,225.0
+Los Altos,225.0
+San Jose,225.0
+San Jose,225.0
+San Jose,225.0
+Los Gatos,225.0
+Palo Alto,225.0
+Palo Alto,225.0
+San Jose,225.0
+Palo Alto,225.0
+San Jose,225.0
+San Jose,225.0
+San Jose,225.0
+San Jose,225.0
+Mountain View,225.0
+Santa Clara,227.0
+San Jose,228.0
+San Jose,228.0
+San Jose,228.0
+Milpitas,228.0
+Mountain View,228.0
+San Jose,228.0
+San Jose,228.0
+Milpitas,228.0
+Campbell,228.0
+Campbell,228.0
+San Jose,228.0
+San Jose,228.0
+Campbell,228.0
+San Jose,229.0
+Saratoga,229.0
+Los Altos,229.0
+San Jose,229.0
+Mountain View,229.0
+Palo Alto,229.0
+San Jose,229.0
+San Jose,229.0
+Mountain View,229.0
+Sunnyvale,229.0
+Sunnyvale,229.0
+Sunnyvale,229.0
+Palo Alto,229.0
+San Jose,229.0
+San Jose,229.0
+Mountain View,229.0
+San Jose,229.0
+Mountain View,229.0
+San Jose,229.0
+Sunnyvale,229.0
+Santa Clara,229.0
+Milpitas,229.0
+Milpitas,229.0
+Milpitas,229.0
+Milpitas,229.0
+Milpitas,229.0
+Milpitas,229.0
+Milpitas,229.0
+Palo Alto,229.0
+Palo Alto,229.0
+San Jose,229.0
+San Jose,229.0
+San Jose,229.0
+San Jose,229.0
+Campbell,230.0
+San Jose,230.0
+Morgan Hill,230.0
+San Jose,230.0
+Sunnyvale,230.0
+Sunnyvale,230.0
+Mountain View,230.0
+Mountain View,230.0
+San Jose,230.0
+Cupertino,230.0
+Cupertino,230.0
+Mountain View,230.0
+Palo Alto,230.0
+Cupertino,231.0
+Mountain View,231.0
+Mountain View,231.0
+Mountain View,232.0
+Palo Alto,232.0
+San Jose,232.0
+San Jose,232.0
+Palo Alto,233.0
+Sunnyvale,233.0
+San Jose,233.0
+Mountain View,234.0
+San Jose,234.0
+Palo Alto,234.0
+San Jose,235.0
+Sunnyvale,235.0
+San Jose,235.0
+Monte Sereno,235.0
+Sunnyvale,235.0
+Santa Clara,236.0
+Santa Clara,236.0
+San Jose,236.0
+San Jose,237.0
+Campbell,237.0
+Santa Clara,237.0
+San Jose,237.0
+Palo Alto,238.0
+Santa Clara,238.0
+San Jose,238.0
+San Jose,238.0
+San Jose,238.0
+Sunnyvale,238.0
+San Jose,239.0
+San Jose,239.0
+Santa Clara,239.0
+San Jose,239.0
+Cupertino,239.0
+San Jose,239.0
+Cupertino,239.0
+Santa Clara,239.0
+Milpitas,239.0
+San Jose,239.0
+Palo Alto,239.0
+San Jose,239.0
+Cupertino,239.0
+San Jose,239.0
+Cupertino,239.0
+San Jose,239.0
+Cupertino,239.0
+Cupertino,239.0
+Cupertino,239.0
+Sunnyvale,239.0
+San Jose,239.0
+San Jose,239.0
+San Jose,239.0
+Palo Alto,239.0
+Milpitas,239.0
+San Jose,239.0
+Milpitas,239.0
+Milpitas,239.0
+San Jose,239.0
+Sunnyvale,239.0
+Sunnyvale,239.0
+Sunnyvale,239.0
+Sunnyvale,239.0
+Palo Alto,240.0
+San Jose,240.0
+Palo Alto,240.0
+Sunnyvale,240.0
+Los Gatos,240.0
+Campbell,240.0
+Campbell,240.0
+San Jose,240.0
+San Jose,240.0
+Palo Alto,240.0
+Palo Alto,240.0
+Palo Alto,240.0
+San Jose,240.0
+Morgan Hill,240.0
+Santa Clara,241.0
+Sunnyvale,241.0
+Sunnyvale,241.0
+Sunnyvale,242.0
+San Jose,243.0
+Palo Alto,244.0
+Santa Clara,245.0
+Mountain View,245.0
+Santa Clara,245.0
+Palo Alto,245.0
+San Jose,245.0
+San Jose,245.0
+Los Altos Hills,245.0
+Santa Clara,245.0
+Milpitas,245.0
+Palo Alto,245.0
+San Jose,246.0
+San Jose,248.0
+San Jose,248.0
+Mountain View,249.0
+Los Altos,249.0
+Milpitas,249.0
+Santa Clara,249.0
+Mountain View,249.0
+San Jose,249.0
+San Jose,249.0
+San Jose,249.0
+Mountain View,249.0
+Mountain View,249.0
+Cupertino,249.0
+Cupertino,249.0
+San Jose,249.0
+Mountain View,249.0
+San Jose,249.0
+Palo Alto,249.0
+San Jose,249.0
+Sunnyvale,249.0
+Sunnyvale,249.0
+Cupertino,249.0
+Cupertino,249.0
+Cupertino,249.0
+Palo Alto,249.0
+Campbell,249.0
+Cupertino,249.0
+Cupertino,249.0
+Cupertino,249.0
+San Jose,249.0
+Cupertino,249.0
+Mountain View,249.0
+Cupertino,249.0
+Santa Clara,249.0
+Palo Alto,249.0
+San Jose,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+San Jose,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+Milpitas,249.0
+San Jose,249.0
+Palo Alto,249.0
+San Jose,249.0
+San Jose,249.0
+Milpitas,249.0
+San Jose,249.0
+San Jose,249.0
+Sunnyvale,249.0
+San Jose,249.0
+San Jose,249.0
+San Jose,249.0
+San Jose,249.0
+San Jose,249.0
+Palo Alto,249.0
+San Jose,249.0
+Mountain View,249.0
+Mountain View,249.0
+Mountain View,249.0
+Mountain View,249.0
+Sunnyvale,249.0
+San Jose,249.0
+San Jose,249.0
+San Jose,249.0
+Los Altos,250.0
+San Jose,250.0
+Mountain View,250.0
+Los Altos,250.0
+San Jose,250.0
+Los Gatos,250.0
+Sunnyvale,250.0
+Mountain View,250.0
+Campbell,250.0
+Los Altos,250.0
+San Jose,250.0
+Palo Alto,250.0
+Campbell,250.0
+San Jose,250.0
+San Jose,250.0
+San Jose,250.0
+Sunnyvale,250.0
+San Jose,250.0
+San Jose,250.0
+San Jose,250.0
+Palo Alto,250.0
+San Jose,250.0
+Los Gatos,250.0
+Palo Alto,250.0
+Santa Clara,250.0
+Los Altos Hills,250.0
+Palo Alto,250.0
+Santa Clara,250.0
+San Jose,250.0
+Palo Alto,250.0
+San Jose,250.0
+Campbell,250.0
+Santa Clara,250.0
+Mountain View,250.0
+Sunnyvale,250.0
+San Jose,250.0
+Palo Alto,250.0
+San Jose,250.0
+Santa Clara,250.0
+San Jose,250.0
+San Jose,250.0
+San Jose,250.0
+Sunnyvale,250.0
+Sunnyvale,250.0
+San Jose,250.0
+San Jose,250.0
+San Jose,250.0
+Santa Clara,250.0
+San Jose,250.0
+Mountain View,250.0
+Morgan Hill,250.0
+Sunnyvale,250.0
+Los Altos Hills,250.0
+Sunnyvale,250.0
+Cupertino,250.0
+San Jose,250.0
+Santa Clara,250.0
+Campbell,250.0
+San Jose,250.0
+Mountain View,250.0
+Campbell,250.0
+Palo Alto,250.0
+Sunnyvale,250.0
+San Jose,250.0
+San Jose,250.0
+San Jose,250.0
+Los Gatos,250.0
+San Jose,250.0
+San Jose,250.0
+San Jose,250.0
+Palo Alto,250.0
+San Jose,250.0
+Mountain View,250.0
+San Jose,250.0
+San Jose,250.0
+Santa Clara,250.0
+Mountain View,250.0
+Sunnyvale,250.0
+Los Gatos,250.0
+Milpitas,250.0
+Mountain View,250.0
+San Jose,252.0
+San Jose,252.0
+San Jose,252.0
+Palo Alto,253.0
+Sunnyvale,254.0
+San Jose,255.0
+San Jose,255.0
+Sunnyvale,256.0
+Milpitas,256.0
+San Jose,257.0
+Cupertino,259.0
+San Jose,259.0
+Mountain View,259.0
+Mountain View,259.0
+San Jose,259.0
+Mountain View,259.0
+San Jose,259.0
+Cupertino,259.0
+Mountain View,259.0
+Mountain View,259.0
+Cupertino,259.0
+Milpitas,259.0
+Cupertino,259.0
+Cupertino,259.0
+Cupertino,259.0
+Milpitas,259.0
+Milpitas,259.0
+Milpitas,259.0
+Milpitas,259.0
+Milpitas,259.0
+Milpitas,259.0
+Milpitas,259.0
+Milpitas,259.0
+Milpitas,259.0
+San Jose,259.0
+San Jose,259.0
+Palo Alto,259.0
+Palo Alto,259.0
+Mountain View,259.0
+Palo Alto,260.0
+Morgan Hill,260.0
+Palo Alto,260.0
+Mountain View,260.0
+Morgan Hill,260.0
+Morgan Hill,260.0
+Mountain View,260.0
+Mountain View,260.0
+Palo Alto,260.0
+Santa Clara,261.0
+San Jose,263.0
+Milpitas,263.0
+Sunnyvale,264.0
+Sunnyvale,265.0
+San Jose,265.0
+San Jose,265.0
+Sunnyvale,265.0
+San Jose,265.0
+Campbell,265.0
+Milpitas,266.0
+San Jose,266.0
+San Jose,268.0
+Cupertino,268.0
+Cupertino,268.0
+Mountain View,268.0
+Palo Alto,269.0
+San Jose,269.0
+Cupertino,269.0
+San Jose,269.0
+San Jose,269.0
+San Jose,269.0
+San Jose,269.0
+San Jose,269.0
+Mountain View,269.0
+Mountain View,269.0
+Mountain View,269.0
+San Jose,269.0
+Mountain View,269.0
+Palo Alto,269.0
+Palo Alto,269.0
+Palo Alto,269.0
+Mountain View,269.0
+Sunnyvale,269.0
+San Jose,269.0
+San Jose,269.0
+San Jose,269.0
+San Jose,269.0
+Milpitas,269.0
+San Jose,270.0
+Mountain View,270.0
+Palo Alto,270.0
+Sunnyvale,270.0
+San Jose,270.0
+Santa Clara,270.0
+Campbell,271.0
+San Jose,273.0
+Mountain View,275.0
+Palo Alto,275.0
+Mountain View,275.0
+Santa Clara,275.0
+San Jose,275.0
+San Jose,275.0
+Palo Alto,275.0
+Sunnyvale,275.0
+San Jose,275.0
+San Jose,275.0
+Palo Alto,275.0
+San Jose,275.0
+Santa Clara,275.0
+Santa Clara,275.0
+San Jose,275.0
+San Jose,275.0
+San Jose,275.0
+Palo Alto,275.0
+Cupertino,275.0
+San Jose,275.0
+San Jose,275.0
+San Jose,275.0
+San Jose,275.0
+Palo Alto,275.0
+Mountain View,277.0
+San Jose,278.0
+San Jose,278.0
+San Jose,278.0
+Santa Clara,279.0
+Palo Alto,279.0
+San Jose,279.0
+Sunnyvale,279.0
+San Jose,279.0
+San Jose,279.0
+San Jose,279.0
+San Jose,279.0
+Milpitas,279.0
+San Jose,279.0
+Mountain View,279.0
+Sunnyvale,279.0
+San Jose,279.0
+Sunnyvale,279.0
+San Jose,279.0
+Palo Alto,280.0
+Palo Alto,280.0
+Los Gatos,280.0
+Santa Clara,280.0
+Cupertino,280.0
+Palo Alto,280.0
+Mountain View,280.0
+San Jose,280.0
+Milpitas,280.0
+San Jose,280.0
+Sunnyvale,280.0
+Mountain View,281.0
+Sunnyvale,282.0
+Palo Alto,282.0
+Santa Clara,283.0
+Cupertino,283.0
+Saratoga,284.0
+Stanford,285.0
+Palo Alto,285.0
+San Jose,285.0
+San Jose,285.0
+San Jose,287.0
+Mountain View,288.0
+Santa Clara,288.0
+San Jose,288.0
+San Jose,288.0
+San Jose,288.0
+San Jose,288.0
+Palo Alto,288.0
+Palo Alto,289.0
+Santa Clara,289.0
+San Jose,289.0
+Santa Clara,289.0
+Campbell,289.0
+San Jose,289.0
+Mountain View,290.0
+Los Altos,290.0
+Santa Clara,290.0
+Los Altos,290.0
+San Jose,290.0
+Palo Alto,290.0
+Sunnyvale,295.0
+Palo Alto,295.0
+Palo Alto,295.0
+Palo Alto,295.0
+Campbell,295.0
+Santa Clara,295.0
+Palo Alto,295.0
+San Jose,295.0
+San Jose,295.0
+Cupertino,295.0
+San Jose,295.0
+Santa Clara,295.0
+Hollister,297.0
+San Jose,298.0
+Palo Alto,298.0
+San Jose,298.0
+San Jose,298.0
+Campbell,298.0
+San Jose,298.0
+San Jose,299.0
+San Jose,299.0
+San Jose,299.0
+San Jose,299.0
+Sunnyvale,299.0
+Sunnyvale,299.0
+Palo Alto,299.0
+Sunnyvale,299.0
+Santa Clara,299.0
+San Jose,299.0
+Palo Alto,299.0
+San Jose,299.0
+Sunnyvale,299.0
+San Jose,299.0
+Santa Clara,299.0
+Santa Clara,299.0
+San Jose,299.0
+San Jose,299.0
+San Jose,299.0
+San Jose,299.0
+San Jose,299.0
+San Jose,299.0
+Santa Clara,299.0
+San Jose,299.0
+Palo Alto,299.0
+San Jose,299.0
+Sunnyvale,299.0
+Los Altos Hills,299.0
+San Jose,299.0
+Palo Alto,299.0
+Los Gatos,300.0
+Mountain View,300.0
+San Jose,300.0
+Milpitas,300.0
+Santa Clara,300.0
+San Jose,300.0
+Sunnyvale,300.0
+Sunnyvale,300.0
+Cupertino,300.0
+San Jose,300.0
+Palo Alto,300.0
+Palo Alto,300.0
+San Jose,300.0
+San Jose,300.0
+San Jose,300.0
+San Jose,300.0
+Palo Alto,300.0
+San Jose,300.0
+San Jose,300.0
+Los Altos,300.0
+San Jose,300.0
+Palo Alto,300.0
+San Jose,300.0
+San Jose,300.0
+San Jose,300.0
+Santa Clara,300.0
+San Jose,300.0
+Mountain View,300.0
+Morgan Hill,300.0
+Palo Alto,300.0
+Stanford,300.0
+Sunnyvale,300.0
+San Jose,300.0
+San Jose,300.0
+Sunnyvale,300.0
+Santa Clara,300.0
+Palo Alto,300.0
+Mountain View,300.0
+Santa Clara,300.0
+San Jose,300.0
+Los Altos,300.0
+Santa Clara,300.0
+Mountain View,300.0
+Los Gatos,300.0
+Los Gatos,300.0
+San Jose,300.0
+San Jose,300.0
+Santa Clara,300.0
+Mountain View,305.0
+Saratoga,305.0
+San Jose,307.0
+Santa Clara,309.0
+San Jose,309.0
+Los Altos,310.0
+Sunnyvale,310.0
+Gilroy,310.0
+Santa Clara,310.0
+Los Altos,312.0
+Los Gatos,313.0
+San Jose,315.0
+Sunnyvale,315.0
+Saratoga,318.0
+Mountain View,319.0
+Palo Alto,320.0
+Cupertino,320.0
+San Jose,320.0
+Palo Alto,320.0
+San Jose,320.0
+Mountain View,320.0
+San Jose,321.0
+Palo Alto,321.0
+Gilroy,321.0
+Santa Clara,321.0
+Milpitas,322.0
+Palo Alto,325.0
+San Jose,325.0
+Palo Alto,325.0
+San Jose,325.0
+San Jose,325.0
+San Jose,325.0
+San Jose,325.0
+Palo Alto,325.0
+Palo Alto,325.0
+Sunnyvale,325.0
+San Jose,325.0
+San Jose,325.0
+Mountain View,325.0
+San Jose,328.0
+San Jose,329.0
+Mountain View,329.0
+Santa Clara,330.0
+Milpitas,332.0
+San Jose,338.0
+Sunnyvale,339.0
+Sunnyvale,339.0
+Santa Clara,344.0
+Palo Alto,349.0
+Sunnyvale,349.0
+Los Gatos,349.0
+Campbell,349.0
+Palo Alto,349.0
+Santa Clara,349.0
+San Jose,349.0
+Sunnyvale,349.0
+San Jose,349.0
+San Jose,349.0
+San Jose,349.0
+San Jose,349.0
+San Jose,349.0
+San Jose,350.0
+Mountain View,350.0
+San Jose,350.0
+San Jose,350.0
+Mountain View,350.0
+Palo Alto,350.0
+Morgan Hill,350.0
+Santa Clara,350.0
+Palo Alto,350.0
+Sunnyvale,350.0
+San Jose,350.0
+Gilroy,350.0
+San Jose,350.0
+San Jose,350.0
+San Jose,350.0
+San Jose,350.0
+San Jose,350.0
+Palo Alto,350.0
+San Jose,350.0
+San Jose,350.0
+Palo Alto,350.0
+San Jose,350.0
+Saratoga,350.0
+San Jose,350.0
+Mountain View,350.0
+San Jose,350.0
+Palo Alto,353.0
+Los Altos,355.0
+San Jose,358.0
+San Jose,358.0
+Santa Clara,359.0
+San Jose,359.0
+San Jose,359.0
+Cupertino,359.0
+San Jose,359.0
+Mountain View,359.0
+Palo Alto,360.0
+San Jose,360.0
+San Jose,360.0
+San Jose,360.0
+Santa Clara,360.0
+San Jose,360.0
+Gilroy,363.0
+San Jose,365.0
+Cupertino,367.0
+Palo Alto,368.0
+Cupertino,369.0
+San Jose,369.0
+Mountain View,369.0
+Palo Alto,369.0
+Palo Alto,371.0
+Mountain View,375.0
+Palo Alto,375.0
+Palo Alto,375.0
+San Jose,375.0
+Mountain View,375.0
+Sunnyvale,375.0
+Santa Clara,375.0
+San Jose,375.0
+San Jose,375.0
+Palo Alto,375.0
+San Jose,375.0
+Palo Alto,375.0
+Sunnyvale,375.0
+San Jose,379.0
+Los Altos,380.0
+San Jose,380.0
+Los Gatos,380.0
+San Jose,380.0
+Palo Alto,380.0
+Santa Clara,385.0
+Gilroy,385.0
+Los Altos,388.0
+Palo Alto,388.0
+Mountain View,388.0
+Palo Alto,388.0
+Palo Alto,388.0
+Palo Alto,388.0
+San Jose,388.0
+Palo Alto,388.0
+San Jose,389.0
+Santa Clara,389.0
+Cupertino,389.0
+Cupertino,389.0
+San Jose,389.0
+San Jose,389.0
+Palo Alto,390.0
+Palo Alto,390.0
+San Jose,394.0
+San Jose,395.0
+San Jose,395.0
+Mountain View,395.0
+San Jose,395.0
+Los Altos,395.0
+San Jose,395.0
+San Jose,398.0
+Palo Alto,398.0
+Los Altos,399.0
+San Jose,399.0
+Palo Alto,399.0
+Santa Clara,399.0
+San Jose,399.0
+Santa Clara,399.0
+San Jose,399.0
+Sunnyvale,399.0
+Cupertino,399.0
+San Jose,399.0
+San Jose,399.0
+San Jose,399.0
+Palo Alto,399.0
+Palo Alto,399.0
+Sunnyvale,399.0
+Palo Alto,400.0
+Palo Alto,400.0
+San Jose,400.0
+Campbell,400.0
+San Jose,400.0
+San Jose,400.0
+Santa Clara,400.0
+Palo Alto,400.0
+Palo Alto,400.0
+Palo Alto,400.0
+Palo Alto,400.0
+Los Gatos,400.0
+Palo Alto,400.0
+Sunnyvale,400.0
+San Jose,400.0
+Palo Alto,400.0
+San Jose,400.0
+Santa Clara,400.0
+San Jose,400.0
+San Jose,400.0
+Los Gatos,400.0
+Santa Clara,400.0
+Sunnyvale,405.0
+San Jose,409.0
+Cupertino,419.0
+Palo Alto,419.0
+Santa Clara,420.0
+Palo Alto,420.0
+Gilroy,421.0
+Los Altos,422.0
+Mountain View,425.0
+Santa Clara,425.0
+San Jose,425.0
+Mountain View,425.0
+San Jose,425.0
+Palo Alto,425.0
+Palo Alto,425.0
+Palo Alto,433.0
+Palo Alto,435.0
+San Jose,435.0
+Palo Alto,439.0
+Palo Alto,439.0
+Santa Clara,439.0
+San Jose,439.0
+Palo Alto,439.0
+Campbell,440.0
+Santa Clara,449.0
+Palo Alto,449.0
+San Jose,449.0
+Palo Alto,450.0
+Mountain View,450.0
+Mountain View,450.0
+San Jose,450.0
+Los Gatos,450.0
+San Jose,450.0
+San Jose,450.0
+Palo Alto,450.0
+Saratoga,450.0
+Palo Alto,450.0
+Campbell,450.0
+Palo Alto,450.0
+Palo Alto,455.0
+San Jose,457.0
+Cupertino,459.0
+Palo Alto,459.0
+Sunnyvale,465.0
+San Jose,466.0
+San Jose,468.0
+Palo Alto,468.0
+Sunnyvale,468.0
+Palo Alto,475.0
+Palo Alto,475.0
+Palo Alto,475.0
+Palo Alto,475.0
+Palo Alto,475.0
+San Jose,475.0
+Milpitas,480.0
+San Jose,480.0
+Mountain View,485.0
+Palo Alto,488.0
+Palo Alto,488.0
+Mountain View,488.0
+Saratoga,495.0
+Mountain View,495.0
+San Jose,495.0
+Cupertino,495.0
+Palo Alto,499.0
+Sunnyvale,499.0
+Palo Alto,499.0
+Palo Alto,499.0
+Palo Alto,500.0
+Los Altos,500.0
+Los Gatos,500.0
+Santa Clara,500.0
+Los Gatos,500.0
+San Jose,500.0
+San Jose,500.0
+San Jose,500.0
+Palo Alto,500.0
+San Jose,500.0
+San Jose,500.0
+Los Altos,500.0
+San Jose,500.0
+Mountain View,500.0
+San Jose,500.0
+San Jose,500.0
+Los Altos Hills,500.0
+Santa Clara,500.0
+Palo Alto,500.0
+Palo Alto,500.0
+San Jose,518.0
+Mountain View,525.0
+Saratoga,525.0
+San Jose,525.0
+San Jose,545.0
+San Jose,550.0
+Sunnyvale,550.0
+San Jose,550.0
+San Jose,550.0
+Palo Alto,550.0
+San Jose,550.0
+San Jose,550.0
+Palo Alto,550.0
+San Jose,550.0
+San Jose,553.0
+Milpitas,575.0
+Los Altos,575.0
+Palo Alto,575.0
+San Jose,590.0
+Santa Clara,595.0
+Palo Alto,595.0
+Palo Alto,595.0
+Los Altos Hills,595.0
+Santa Clara,599.0
+San Jose,599.0
+Palo Alto,599.0
+Mountain View,599.0
+Los Altos Hills,599.0
+San Jose,600.0
+Los Altos Hills,600.0
+Morgan Hill,600.0
+San Jose,600.0
+Santa Clara,600.0
+Los Gatos,600.0
+San Jose,600.0
+Palo Alto,600.0
+San Jose,600.0
+Mountain View,600.0
+Menlo Park,625.0
+Palo Alto,645.0
+San Jose,650.0
+San Jose,650.0
+Santa Clara,650.0
+Palo Alto,650.0
+Palo Alto,650.0
+Santa Clara,650.0
+Mountain View,650.0
+San Jose,650.0
+Los Altos Hills,650.0
+San Jose,655.0
+San Jose,655.0
+Santa Clara,675.0
+San Jose,680.0
+Palo Alto,689.0
+Santa Clara,695.0
+San Jose,699.0
+San Jose,700.0
+Los Altos,700.0
+Sunnyvale,700.0
+Saratoga,700.0
+Santa Clara,700.0
+San Jose,700.0
+Sunnyvale,700.0
+Morgan Hill,700.0
+Palo Alto,700.0
+Palo Alto,708.0
+Santa Clara,749.0
+Los Altos,749.0
+San Jose,749.0
+Palo Alto,750.0
+San Jose,750.0
+San Jose,750.0
+Palo Alto,750.0
+Palo Alto,750.0
+Palo Alto,750.0
+Palo Alto,750.0
+Los Gatos,750.0
+San Jose,759.0
+Mountain View,775.0
+Palo Alto,777.0
+Los Gatos,780.0
+San Jose,789.0
+Mountain View,795.0
+Palo Alto,795.0
+Los Gatos,799.0
+Milpitas,799.0
+Palo Alto,800.0
+San Jose,800.0
+San Jose,800.0
+San Jose,800.0
+Campbell,800.0
+San Jose,800.0
+Palo Alto,800.0
+Saratoga,800.0
+Palo Alto,845.0
+Mountain View,850.0
+San Martin,850.0
+Palo Alto,875.0
+Palo Alto,880.0
+San Jose,880.0
+Los Altos Hills,888.0
+Palo Alto,899.0
+San Jose,899.0
+San Jose,900.0
+Saratoga,900.0
+San Jose,900.0
+Mountain View,900.0
+Santa Clara,900.0
+Morgan Hill,900.0
+San Jose,900.0
+Palo Alto,900.0
+San Jose,950.0
+Los Altos Hills,950.0
+San Jose,995.0
+Palo Alto,995.0
+Saratoga,995.0
+San Jose,995.0
+Santa Clara,999.0
+Santa Clara,999.0
+San Jose,999.0
