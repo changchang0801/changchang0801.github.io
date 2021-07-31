@@ -141,20 +141,7 @@ a {
 
 
 
-/* chart 1 */
-/*text.annotation {*/
-/*  font-size: 15px;*/
-/*  font-style: italic;*/
-/*  stroke: #ff5f45;*/
-/*  fill: #ff5f45;*/
-/*}*/
-/*rect.annotation {*/
-/*  stroke: #ff5f45;*/
-/*  fill: transparent;*/
-/*}*/
-/*line.annotation {*/
-/*  stroke: #ff5f45;*/
-/*}*/
+
 
 .bubbles {
   stroke-width: 2px;
@@ -181,27 +168,6 @@ a {
   margin: 0 20px;
 }
 
-/* chart 4 */
-.chart4 {
-  width: 502px;
-  height: 502px;
-}
-#svg4 {
-  width: 500px;
-  height: 500px;
-}
-#svg4 rec {
-  opacity: 0.1;
-}
-#map {
-  position: relative;
-  top: -505px;
-  width: 500px;
-  height: 500px;
-}
-.panel input[type="button"] {
-  margin: 0 20px;
-}
 
 
 
